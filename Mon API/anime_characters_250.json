@@ -1,0 +1,6252 @@
+[
+    {
+        "id": 1,
+        "name": "Naruto Uzumaki",
+        "anime": "Naruto",
+        "age": 17,
+        "rank": "Combattant d'élite",
+        "team": "Équipe principale",
+        "types": [
+            "Combat",
+            "Stratégie"
+        ],
+        "total": 450,
+        "hp": 67,
+        "attack": 71,
+        "defense": 73,
+        "attack_special": 77,
+        "defense_special": 79,
+        "speed": 83,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 2
+    },
+    {
+        "id": 2,
+        "name": "Sasuke Uchiha",
+        "anime": "Naruto",
+        "age": 17,
+        "rank": "Héros",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Pouvoir spécial",
+            "Technique"
+        ],
+        "total": 499,
+        "hp": 74,
+        "attack": 82,
+        "defense": 86,
+        "attack_special": 94,
+        "defense_special": 98,
+        "speed": 65,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 1
+    },
+    {
+        "id": 3,
+        "name": "Sakura Haruno",
+        "anime": "Naruto",
+        "age": 17,
+        "rank": "Guerrier",
+        "team": "Organisation",
+        "types": [
+            "Énergie",
+            "Combat"
+        ],
+        "total": 507,
+        "hp": 81,
+        "attack": 93,
+        "defense": 99,
+        "attack_special": 70,
+        "defense_special": 76,
+        "speed": 88,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 4
+    },
+    {
+        "id": 4,
+        "name": "Kakashi Hatake",
+        "anime": "Naruto",
+        "age": 31,
+        "rank": "Maître combattant",
+        "team": "Équipe de combat",
+        "types": [
+            "Magie",
+            "Combat"
+        ],
+        "total": 474,
+        "hp": 88,
+        "attack": 63,
+        "defense": 71,
+        "attack_special": 87,
+        "defense_special": 95,
+        "speed": 70,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": 3
+    },
+    {
+        "id": 5,
+        "name": "Shikamaru Nara",
+        "anime": "Naruto",
+        "age": 17,
+        "rank": "Expert",
+        "team": "Groupe spécial",
+        "types": [
+            "Arme",
+            "Agilité"
+        ],
+        "total": 482,
+        "hp": 95,
+        "attack": 74,
+        "defense": 84,
+        "attack_special": 63,
+        "defense_special": 73,
+        "speed": 93,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": 6
+    },
+    {
+        "id": 6,
+        "name": "Hinata Hyuga",
+        "anime": "Naruto",
+        "age": 16,
+        "rank": "Combattant confirmé",
+        "team": "Équipe principale",
+        "types": [
+            "Pouvoir surnaturel",
+            "Défense"
+        ],
+        "total": 490,
+        "hp": 61,
+        "attack": 85,
+        "defense": 97,
+        "attack_special": 80,
+        "defense_special": 92,
+        "speed": 75,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 5
+    },
+    {
+        "id": 7,
+        "name": "Rock Lee",
+        "anime": "Naruto",
+        "age": 17,
+        "rank": "Combattant d'élite",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Arts martiaux",
+            "Vitesse"
+        ],
+        "total": 498,
+        "hp": 68,
+        "attack": 96,
+        "defense": 69,
+        "attack_special": 97,
+        "defense_special": 70,
+        "speed": 98,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 8
+    },
+    {
+        "id": 8,
+        "name": "Neji Hyuga",
+        "anime": "Naruto",
+        "age": 17,
+        "rank": "Héros",
+        "team": "Organisation",
+        "types": [
+            "Technique spéciale",
+            "Endurance"
+        ],
+        "total": 465,
+        "hp": 75,
+        "attack": 66,
+        "defense": 82,
+        "attack_special": 73,
+        "defense_special": 89,
+        "speed": 80,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 7
+    },
+    {
+        "id": 9,
+        "name": "Gaara",
+        "anime": "Naruto",
+        "age": 17,
+        "rank": "Guerrier",
+        "team": "Équipe de combat",
+        "types": [
+            "Combat",
+            "Stratégie"
+        ],
+        "total": 473,
+        "hp": 82,
+        "attack": 77,
+        "defense": 95,
+        "attack_special": 90,
+        "defense_special": 67,
+        "speed": 62,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 10,
+        "name": "Itachi Uchiha",
+        "anime": "Naruto",
+        "age": 21,
+        "rank": "Maître combattant",
+        "team": "Groupe spécial",
+        "types": [
+            "Pouvoir spécial",
+            "Technique"
+        ],
+        "total": 481,
+        "hp": 89,
+        "attack": 88,
+        "defense": 67,
+        "attack_special": 66,
+        "defense_special": 86,
+        "speed": 85,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 11,
+        "name": "Monkey D. Luffy",
+        "anime": "One Piece",
+        "age": 19,
+        "rank": "Expert",
+        "team": "Équipe principale",
+        "types": [
+            "Énergie",
+            "Combat"
+        ],
+        "total": 489,
+        "hp": 96,
+        "attack": 99,
+        "defense": 80,
+        "attack_special": 83,
+        "defense_special": 64,
+        "speed": 67,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 12
+    },
+    {
+        "id": 12,
+        "name": "Roronoa Zoro",
+        "anime": "One Piece",
+        "age": 21,
+        "rank": "Combattant confirmé",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Magie",
+            "Combat"
+        ],
+        "total": 497,
+        "hp": 62,
+        "attack": 69,
+        "defense": 93,
+        "attack_special": 100,
+        "defense_special": 83,
+        "speed": 90,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 11
+    },
+    {
+        "id": 13,
+        "name": "Nami",
+        "anime": "One Piece",
+        "age": 20,
+        "rank": "Combattant d'élite",
+        "team": "Organisation",
+        "types": [
+            "Arme",
+            "Agilité"
+        ],
+        "total": 423,
+        "hp": 69,
+        "attack": 80,
+        "defense": 65,
+        "attack_special": 76,
+        "defense_special": 61,
+        "speed": 72,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 14
+    },
+    {
+        "id": 14,
+        "name": "Usopp",
+        "anime": "One Piece",
+        "age": 19,
+        "rank": "Héros",
+        "team": "Équipe de combat",
+        "types": [
+            "Pouvoir surnaturel",
+            "Défense"
+        ],
+        "total": 513,
+        "hp": 76,
+        "attack": 91,
+        "defense": 78,
+        "attack_special": 93,
+        "defense_special": 80,
+        "speed": 95,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": 13
+    },
+    {
+        "id": 15,
+        "name": "Sanji",
+        "anime": "One Piece",
+        "age": 21,
+        "rank": "Guerrier",
+        "team": "Groupe spécial",
+        "types": [
+            "Arts martiaux",
+            "Vitesse"
+        ],
+        "total": 480,
+        "hp": 83,
+        "attack": 61,
+        "defense": 91,
+        "attack_special": 69,
+        "defense_special": 99,
+        "speed": 77,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": 16
+    },
+    {
+        "id": 16,
+        "name": "Tony Tony Chopper",
+        "anime": "One Piece",
+        "age": 17,
+        "rank": "Maître combattant",
+        "team": "Équipe principale",
+        "types": [
+            "Technique spéciale",
+            "Endurance"
+        ],
+        "total": 488,
+        "hp": 90,
+        "attack": 72,
+        "defense": 63,
+        "attack_special": 86,
+        "defense_special": 77,
+        "speed": 100,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 15
+    },
+    {
+        "id": 17,
+        "name": "Nico Robin",
+        "anime": "One Piece",
+        "age": 30,
+        "rank": "Expert",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Combat",
+            "Stratégie"
+        ],
+        "total": 496,
+        "hp": 97,
+        "attack": 83,
+        "defense": 76,
+        "attack_special": 62,
+        "defense_special": 96,
+        "speed": 82,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 18
+    },
+    {
+        "id": 18,
+        "name": "Franky",
+        "anime": "One Piece",
+        "age": 36,
+        "rank": "Combattant confirmé",
+        "team": "Organisation",
+        "types": [
+            "Pouvoir spécial",
+            "Technique"
+        ],
+        "total": 463,
+        "hp": 63,
+        "attack": 94,
+        "defense": 89,
+        "attack_special": 79,
+        "defense_special": 74,
+        "speed": 64,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 17
+    },
+    {
+        "id": 19,
+        "name": "Brook",
+        "anime": "One Piece",
+        "age": 90,
+        "rank": "Combattant d'élite",
+        "team": "Équipe de combat",
+        "types": [
+            "Énergie",
+            "Combat"
+        ],
+        "total": 471,
+        "hp": 70,
+        "attack": 64,
+        "defense": 61,
+        "attack_special": 96,
+        "defense_special": 93,
+        "speed": 87,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 20,
+        "name": "Trafalgar Law",
+        "anime": "One Piece",
+        "age": 26,
+        "rank": "Héros",
+        "team": "Groupe spécial",
+        "types": [
+            "Magie",
+            "Combat"
+        ],
+        "total": 438,
+        "hp": 77,
+        "attack": 75,
+        "defense": 74,
+        "attack_special": 72,
+        "defense_special": 71,
+        "speed": 69,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 21,
+        "name": "Ichigo Kurosaki",
+        "anime": "Bleach",
+        "age": 17,
+        "rank": "Guerrier",
+        "team": "Équipe principale",
+        "types": [
+            "Arme",
+            "Agilité"
+        ],
+        "total": 528,
+        "hp": 84,
+        "attack": 86,
+        "defense": 87,
+        "attack_special": 89,
+        "defense_special": 90,
+        "speed": 92,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 22
+    },
+    {
+        "id": 22,
+        "name": "Rukia Kuchiki",
+        "anime": "Bleach",
+        "age": 150,
+        "rank": "Maître combattant",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Pouvoir surnaturel",
+            "Défense"
+        ],
+        "total": 495,
+        "hp": 91,
+        "attack": 97,
+        "defense": 100,
+        "attack_special": 65,
+        "defense_special": 68,
+        "speed": 74,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 21
+    },
+    {
+        "id": 23,
+        "name": "Renji Abarai",
+        "anime": "Bleach",
+        "age": 150,
+        "rank": "Expert",
+        "team": "Organisation",
+        "types": [
+            "Arts martiaux",
+            "Vitesse"
+        ],
+        "total": 503,
+        "hp": 98,
+        "attack": 67,
+        "defense": 72,
+        "attack_special": 82,
+        "defense_special": 87,
+        "speed": 97,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 24
+    },
+    {
+        "id": 24,
+        "name": "Orihime Inoue",
+        "anime": "Bleach",
+        "age": 17,
+        "rank": "Combattant confirmé",
+        "team": "Équipe de combat",
+        "types": [
+            "Technique spéciale",
+            "Endurance"
+        ],
+        "total": 470,
+        "hp": 64,
+        "attack": 78,
+        "defense": 85,
+        "attack_special": 99,
+        "defense_special": 65,
+        "speed": 79,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": 23
+    },
+    {
+        "id": 25,
+        "name": "Uryu Ishida",
+        "anime": "Bleach",
+        "age": 17,
+        "rank": "Combattant d'élite",
+        "team": "Groupe spécial",
+        "types": [
+            "Combat",
+            "Stratégie"
+        ],
+        "total": 478,
+        "hp": 71,
+        "attack": 89,
+        "defense": 98,
+        "attack_special": 75,
+        "defense_special": 84,
+        "speed": 61,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": 26
+    },
+    {
+        "id": 26,
+        "name": "Yasutora Sado",
+        "anime": "Bleach",
+        "age": 17,
+        "rank": "Héros",
+        "team": "Équipe principale",
+        "types": [
+            "Pouvoir spécial",
+            "Technique"
+        ],
+        "total": 486,
+        "hp": 78,
+        "attack": 100,
+        "defense": 70,
+        "attack_special": 92,
+        "defense_special": 62,
+        "speed": 84,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 25
+    },
+    {
+        "id": 27,
+        "name": "Kisuke Urahara",
+        "anime": "Bleach",
+        "age": 100,
+        "rank": "Guerrier",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Énergie",
+            "Combat"
+        ],
+        "total": 453,
+        "hp": 85,
+        "attack": 70,
+        "defense": 83,
+        "attack_special": 68,
+        "defense_special": 81,
+        "speed": 66,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 28
+    },
+    {
+        "id": 28,
+        "name": "Byakuya Kuchiki",
+        "anime": "Bleach",
+        "age": 200,
+        "rank": "Maître combattant",
+        "team": "Organisation",
+        "types": [
+            "Magie",
+            "Combat"
+        ],
+        "total": 543,
+        "hp": 92,
+        "attack": 81,
+        "defense": 96,
+        "attack_special": 85,
+        "defense_special": 100,
+        "speed": 89,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 27
+    },
+    {
+        "id": 29,
+        "name": "Kenpachi Zaraki",
+        "anime": "Bleach",
+        "age": 200,
+        "rank": "Expert",
+        "team": "Équipe de combat",
+        "types": [
+            "Arme",
+            "Agilité"
+        ],
+        "total": 469,
+        "hp": 99,
+        "attack": 92,
+        "defense": 68,
+        "attack_special": 61,
+        "defense_special": 78,
+        "speed": 71,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 30,
+        "name": "Toshiro Hitsugaya",
+        "anime": "Bleach",
+        "age": 100,
+        "rank": "Combattant confirmé",
+        "team": "Groupe spécial",
+        "types": [
+            "Pouvoir surnaturel",
+            "Défense"
+        ],
+        "total": 477,
+        "hp": 65,
+        "attack": 62,
+        "defense": 81,
+        "attack_special": 78,
+        "defense_special": 97,
+        "speed": 94,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 31,
+        "name": "Son Goku",
+        "anime": "Dragon Ball",
+        "age": 43,
+        "rank": "Combattant d'élite",
+        "team": "Équipe principale",
+        "types": [
+            "Arts martiaux",
+            "Vitesse"
+        ],
+        "total": 485,
+        "hp": 72,
+        "attack": 73,
+        "defense": 94,
+        "attack_special": 95,
+        "defense_special": 75,
+        "speed": 76,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 32
+    },
+    {
+        "id": 32,
+        "name": "Vegeta",
+        "anime": "Dragon Ball",
+        "age": 48,
+        "rank": "Héros",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Technique spéciale",
+            "Endurance"
+        ],
+        "total": 493,
+        "hp": 79,
+        "attack": 84,
+        "defense": 66,
+        "attack_special": 71,
+        "defense_special": 94,
+        "speed": 99,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 31
+    },
+    {
+        "id": 33,
+        "name": "Son Gohan",
+        "anime": "Dragon Ball",
+        "age": 23,
+        "rank": "Guerrier",
+        "team": "Organisation",
+        "types": [
+            "Combat",
+            "Stratégie"
+        ],
+        "total": 501,
+        "hp": 86,
+        "attack": 95,
+        "defense": 79,
+        "attack_special": 88,
+        "defense_special": 72,
+        "speed": 81,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 34
+    },
+    {
+        "id": 34,
+        "name": "Piccolo",
+        "anime": "Dragon Ball",
+        "age": 27,
+        "rank": "Maître combattant",
+        "team": "Équipe de combat",
+        "types": [
+            "Pouvoir spécial",
+            "Technique"
+        ],
+        "total": 468,
+        "hp": 93,
+        "attack": 65,
+        "defense": 92,
+        "attack_special": 64,
+        "defense_special": 91,
+        "speed": 63,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": 33
+    },
+    {
+        "id": 35,
+        "name": "Krillin",
+        "anime": "Dragon Ball",
+        "age": 44,
+        "rank": "Expert",
+        "team": "Groupe spécial",
+        "types": [
+            "Énergie",
+            "Combat"
+        ],
+        "total": 476,
+        "hp": 100,
+        "attack": 76,
+        "defense": 64,
+        "attack_special": 81,
+        "defense_special": 69,
+        "speed": 86,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": 36
+    },
+    {
+        "id": 36,
+        "name": "Bulma",
+        "anime": "Dragon Ball",
+        "age": 47,
+        "rank": "Combattant confirmé",
+        "team": "Équipe principale",
+        "types": [
+            "Magie",
+            "Combat"
+        ],
+        "total": 484,
+        "hp": 66,
+        "attack": 87,
+        "defense": 77,
+        "attack_special": 98,
+        "defense_special": 88,
+        "speed": 68,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 35
+    },
+    {
+        "id": 37,
+        "name": "Trunks",
+        "anime": "Dragon Ball",
+        "age": 18,
+        "rank": "Combattant d'élite",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Arme",
+            "Agilité"
+        ],
+        "total": 492,
+        "hp": 73,
+        "attack": 98,
+        "defense": 90,
+        "attack_special": 74,
+        "defense_special": 66,
+        "speed": 91,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 38
+    },
+    {
+        "id": 38,
+        "name": "Goten",
+        "anime": "Dragon Ball",
+        "age": 17,
+        "rank": "Héros",
+        "team": "Organisation",
+        "types": [
+            "Pouvoir surnaturel",
+            "Défense"
+        ],
+        "total": 459,
+        "hp": 80,
+        "attack": 68,
+        "defense": 62,
+        "attack_special": 91,
+        "defense_special": 85,
+        "speed": 73,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 37
+    },
+    {
+        "id": 39,
+        "name": "Freezer",
+        "anime": "Dragon Ball",
+        "age": 70,
+        "rank": "Guerrier",
+        "team": "Équipe de combat",
+        "types": [
+            "Arts martiaux",
+            "Vitesse"
+        ],
+        "total": 467,
+        "hp": 87,
+        "attack": 79,
+        "defense": 75,
+        "attack_special": 67,
+        "defense_special": 63,
+        "speed": 96,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 40,
+        "name": "Cell",
+        "anime": "Dragon Ball",
+        "age": 10,
+        "rank": "Maître combattant",
+        "team": "Groupe spécial",
+        "types": [
+            "Technique spéciale",
+            "Endurance"
+        ],
+        "total": 516,
+        "hp": 94,
+        "attack": 90,
+        "defense": 88,
+        "attack_special": 84,
+        "defense_special": 82,
+        "speed": 78,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 41,
+        "name": "Satoru Gojo",
+        "anime": "Jujutsu Kaisen",
+        "age": 28,
+        "rank": "Expert",
+        "team": "Équipe principale",
+        "types": [
+            "Combat",
+            "Stratégie"
+        ],
+        "total": 360,
+        "hp": 60,
+        "attack": 60,
+        "defense": 60,
+        "attack_special": 60,
+        "defense_special": 60,
+        "speed": 60,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 42
+    },
+    {
+        "id": 42,
+        "name": "Yuji Itadori",
+        "anime": "Jujutsu Kaisen",
+        "age": 15,
+        "rank": "Combattant confirmé",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Pouvoir spécial",
+            "Technique"
+        ],
+        "total": 450,
+        "hp": 67,
+        "attack": 71,
+        "defense": 73,
+        "attack_special": 77,
+        "defense_special": 79,
+        "speed": 83,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 41
+    },
+    {
+        "id": 43,
+        "name": "Megumi Fushiguro",
+        "anime": "Jujutsu Kaisen",
+        "age": 15,
+        "rank": "Combattant d'élite",
+        "team": "Organisation",
+        "types": [
+            "Énergie",
+            "Combat"
+        ],
+        "total": 499,
+        "hp": 74,
+        "attack": 82,
+        "defense": 86,
+        "attack_special": 94,
+        "defense_special": 98,
+        "speed": 65,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 44
+    },
+    {
+        "id": 44,
+        "name": "Nobara Kugisaki",
+        "anime": "Jujutsu Kaisen",
+        "age": 16,
+        "rank": "Héros",
+        "team": "Équipe de combat",
+        "types": [
+            "Magie",
+            "Combat"
+        ],
+        "total": 507,
+        "hp": 81,
+        "attack": 93,
+        "defense": 99,
+        "attack_special": 70,
+        "defense_special": 76,
+        "speed": 88,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": 43
+    },
+    {
+        "id": 45,
+        "name": "Yuta Okkotsu",
+        "anime": "Jujutsu Kaisen",
+        "age": 17,
+        "rank": "Guerrier",
+        "team": "Groupe spécial",
+        "types": [
+            "Arme",
+            "Agilité"
+        ],
+        "total": 474,
+        "hp": 88,
+        "attack": 63,
+        "defense": 71,
+        "attack_special": 87,
+        "defense_special": 95,
+        "speed": 70,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": 46
+    },
+    {
+        "id": 46,
+        "name": "Maki Zenin",
+        "anime": "Jujutsu Kaisen",
+        "age": 16,
+        "rank": "Maître combattant",
+        "team": "Équipe principale",
+        "types": [
+            "Pouvoir surnaturel",
+            "Défense"
+        ],
+        "total": 482,
+        "hp": 95,
+        "attack": 74,
+        "defense": 84,
+        "attack_special": 63,
+        "defense_special": 73,
+        "speed": 93,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 45
+    },
+    {
+        "id": 47,
+        "name": "Toge Inumaki",
+        "anime": "Jujutsu Kaisen",
+        "age": 17,
+        "rank": "Expert",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Arts martiaux",
+            "Vitesse"
+        ],
+        "total": 490,
+        "hp": 61,
+        "attack": 85,
+        "defense": 97,
+        "attack_special": 80,
+        "defense_special": 92,
+        "speed": 75,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 48
+    },
+    {
+        "id": 48,
+        "name": "Panda",
+        "anime": "Jujutsu Kaisen",
+        "age": 17,
+        "rank": "Combattant confirmé",
+        "team": "Organisation",
+        "types": [
+            "Technique spéciale",
+            "Endurance"
+        ],
+        "total": 498,
+        "hp": 68,
+        "attack": 96,
+        "defense": 69,
+        "attack_special": 97,
+        "defense_special": 70,
+        "speed": 98,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 47
+    },
+    {
+        "id": 49,
+        "name": "Kento Nanami",
+        "anime": "Jujutsu Kaisen",
+        "age": 28,
+        "rank": "Combattant d'élite",
+        "team": "Équipe de combat",
+        "types": [
+            "Combat",
+            "Stratégie"
+        ],
+        "total": 465,
+        "hp": 75,
+        "attack": 66,
+        "defense": 82,
+        "attack_special": 73,
+        "defense_special": 89,
+        "speed": 80,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 50,
+        "name": "Suguru Geto",
+        "anime": "Jujutsu Kaisen",
+        "age": 27,
+        "rank": "Héros",
+        "team": "Groupe spécial",
+        "types": [
+            "Pouvoir spécial",
+            "Technique"
+        ],
+        "total": 473,
+        "hp": 82,
+        "attack": 77,
+        "defense": 95,
+        "attack_special": 90,
+        "defense_special": 67,
+        "speed": 62,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 51,
+        "name": "Tanjiro Kamado",
+        "anime": "Demon Slayer",
+        "age": 15,
+        "rank": "Guerrier",
+        "team": "Équipe principale",
+        "types": [
+            "Énergie",
+            "Combat"
+        ],
+        "total": 481,
+        "hp": 89,
+        "attack": 88,
+        "defense": 67,
+        "attack_special": 66,
+        "defense_special": 86,
+        "speed": 85,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 52
+    },
+    {
+        "id": 52,
+        "name": "Nezuko Kamado",
+        "anime": "Demon Slayer",
+        "age": 14,
+        "rank": "Maître combattant",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Magie",
+            "Combat"
+        ],
+        "total": 489,
+        "hp": 96,
+        "attack": 99,
+        "defense": 80,
+        "attack_special": 83,
+        "defense_special": 64,
+        "speed": 67,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 51
+    },
+    {
+        "id": 53,
+        "name": "Zenitsu Agatsuma",
+        "anime": "Demon Slayer",
+        "age": 16,
+        "rank": "Expert",
+        "team": "Organisation",
+        "types": [
+            "Arme",
+            "Agilité"
+        ],
+        "total": 497,
+        "hp": 62,
+        "attack": 69,
+        "defense": 93,
+        "attack_special": 100,
+        "defense_special": 83,
+        "speed": 90,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 54
+    },
+    {
+        "id": 54,
+        "name": "Inosuke Hashibira",
+        "anime": "Demon Slayer",
+        "age": 15,
+        "rank": "Combattant confirmé",
+        "team": "Équipe de combat",
+        "types": [
+            "Pouvoir surnaturel",
+            "Défense"
+        ],
+        "total": 423,
+        "hp": 69,
+        "attack": 80,
+        "defense": 65,
+        "attack_special": 76,
+        "defense_special": 61,
+        "speed": 72,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": 53
+    },
+    {
+        "id": 55,
+        "name": "Giyu Tomioka",
+        "anime": "Demon Slayer",
+        "age": 21,
+        "rank": "Combattant d'élite",
+        "team": "Groupe spécial",
+        "types": [
+            "Arts martiaux",
+            "Vitesse"
+        ],
+        "total": 513,
+        "hp": 76,
+        "attack": 91,
+        "defense": 78,
+        "attack_special": 93,
+        "defense_special": 80,
+        "speed": 95,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": 56
+    },
+    {
+        "id": 56,
+        "name": "Shinobu Kocho",
+        "anime": "Demon Slayer",
+        "age": 18,
+        "rank": "Héros",
+        "team": "Équipe principale",
+        "types": [
+            "Technique spéciale",
+            "Endurance"
+        ],
+        "total": 480,
+        "hp": 83,
+        "attack": 61,
+        "defense": 91,
+        "attack_special": 69,
+        "defense_special": 99,
+        "speed": 77,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 55
+    },
+    {
+        "id": 57,
+        "name": "Kyojuro Rengoku",
+        "anime": "Demon Slayer",
+        "age": 20,
+        "rank": "Guerrier",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Combat",
+            "Stratégie"
+        ],
+        "total": 488,
+        "hp": 90,
+        "attack": 72,
+        "defense": 63,
+        "attack_special": 86,
+        "defense_special": 77,
+        "speed": 100,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 58
+    },
+    {
+        "id": 58,
+        "name": "Tengen Uzui",
+        "anime": "Demon Slayer",
+        "age": 23,
+        "rank": "Maître combattant",
+        "team": "Organisation",
+        "types": [
+            "Pouvoir spécial",
+            "Technique"
+        ],
+        "total": 496,
+        "hp": 97,
+        "attack": 83,
+        "defense": 76,
+        "attack_special": 62,
+        "defense_special": 96,
+        "speed": 82,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 57
+    },
+    {
+        "id": 59,
+        "name": "Mitsuri Kanroji",
+        "anime": "Demon Slayer",
+        "age": 19,
+        "rank": "Expert",
+        "team": "Équipe de combat",
+        "types": [
+            "Énergie",
+            "Combat"
+        ],
+        "total": 463,
+        "hp": 63,
+        "attack": 94,
+        "defense": 89,
+        "attack_special": 79,
+        "defense_special": 74,
+        "speed": 64,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 60,
+        "name": "Muichiro Tokito",
+        "anime": "Demon Slayer",
+        "age": 14,
+        "rank": "Combattant confirmé",
+        "team": "Groupe spécial",
+        "types": [
+            "Magie",
+            "Combat"
+        ],
+        "total": 471,
+        "hp": 70,
+        "attack": 64,
+        "defense": 61,
+        "attack_special": 96,
+        "defense_special": 93,
+        "speed": 87,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 61,
+        "name": "Izuku Midoriya",
+        "anime": "My Hero Academia",
+        "age": 16,
+        "rank": "Combattant d'élite",
+        "team": "Équipe principale",
+        "types": [
+            "Arme",
+            "Agilité"
+        ],
+        "total": 438,
+        "hp": 77,
+        "attack": 75,
+        "defense": 74,
+        "attack_special": 72,
+        "defense_special": 71,
+        "speed": 69,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 62
+    },
+    {
+        "id": 62,
+        "name": "Katsuki Bakugo",
+        "anime": "My Hero Academia",
+        "age": 16,
+        "rank": "Héros",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Pouvoir surnaturel",
+            "Défense"
+        ],
+        "total": 528,
+        "hp": 84,
+        "attack": 86,
+        "defense": 87,
+        "attack_special": 89,
+        "defense_special": 90,
+        "speed": 92,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 61
+    },
+    {
+        "id": 63,
+        "name": "Shoto Todoroki",
+        "anime": "My Hero Academia",
+        "age": 16,
+        "rank": "Guerrier",
+        "team": "Organisation",
+        "types": [
+            "Arts martiaux",
+            "Vitesse"
+        ],
+        "total": 495,
+        "hp": 91,
+        "attack": 97,
+        "defense": 100,
+        "attack_special": 65,
+        "defense_special": 68,
+        "speed": 74,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 64
+    },
+    {
+        "id": 64,
+        "name": "Ochaco Uraraka",
+        "anime": "My Hero Academia",
+        "age": 16,
+        "rank": "Maître combattant",
+        "team": "Équipe de combat",
+        "types": [
+            "Technique spéciale",
+            "Endurance"
+        ],
+        "total": 503,
+        "hp": 98,
+        "attack": 67,
+        "defense": 72,
+        "attack_special": 82,
+        "defense_special": 87,
+        "speed": 97,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": 63
+    },
+    {
+        "id": 65,
+        "name": "Tenya Iida",
+        "anime": "My Hero Academia",
+        "age": 16,
+        "rank": "Expert",
+        "team": "Groupe spécial",
+        "types": [
+            "Combat",
+            "Stratégie"
+        ],
+        "total": 470,
+        "hp": 64,
+        "attack": 78,
+        "defense": 85,
+        "attack_special": 99,
+        "defense_special": 65,
+        "speed": 79,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": 66
+    },
+    {
+        "id": 66,
+        "name": "Eijiro Kirishima",
+        "anime": "My Hero Academia",
+        "age": 16,
+        "rank": "Combattant confirmé",
+        "team": "Équipe principale",
+        "types": [
+            "Pouvoir spécial",
+            "Technique"
+        ],
+        "total": 478,
+        "hp": 71,
+        "attack": 89,
+        "defense": 98,
+        "attack_special": 75,
+        "defense_special": 84,
+        "speed": 61,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 65
+    },
+    {
+        "id": 67,
+        "name": "Tsuyu Asui",
+        "anime": "My Hero Academia",
+        "age": 16,
+        "rank": "Combattant d'élite",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Énergie",
+            "Combat"
+        ],
+        "total": 486,
+        "hp": 78,
+        "attack": 100,
+        "defense": 70,
+        "attack_special": 92,
+        "defense_special": 62,
+        "speed": 84,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 68
+    },
+    {
+        "id": 68,
+        "name": "Momo Yaoyorozu",
+        "anime": "My Hero Academia",
+        "age": 16,
+        "rank": "Héros",
+        "team": "Organisation",
+        "types": [
+            "Magie",
+            "Combat"
+        ],
+        "total": 453,
+        "hp": 85,
+        "attack": 70,
+        "defense": 83,
+        "attack_special": 68,
+        "defense_special": 81,
+        "speed": 66,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 67
+    },
+    {
+        "id": 69,
+        "name": "All Might",
+        "anime": "My Hero Academia",
+        "age": 49,
+        "rank": "Guerrier",
+        "team": "Équipe de combat",
+        "types": [
+            "Arme",
+            "Agilité"
+        ],
+        "total": 543,
+        "hp": 92,
+        "attack": 81,
+        "defense": 96,
+        "attack_special": 85,
+        "defense_special": 100,
+        "speed": 89,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 70,
+        "name": "Shota Aizawa",
+        "anime": "My Hero Academia",
+        "age": 30,
+        "rank": "Maître combattant",
+        "team": "Groupe spécial",
+        "types": [
+            "Pouvoir surnaturel",
+            "Défense"
+        ],
+        "total": 469,
+        "hp": 99,
+        "attack": 92,
+        "defense": 68,
+        "attack_special": 61,
+        "defense_special": 78,
+        "speed": 71,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 71,
+        "name": "Eren Yeager",
+        "anime": "Attack on Titan",
+        "age": 19,
+        "rank": "Expert",
+        "team": "Équipe principale",
+        "types": [
+            "Arts martiaux",
+            "Vitesse"
+        ],
+        "total": 477,
+        "hp": 65,
+        "attack": 62,
+        "defense": 81,
+        "attack_special": 78,
+        "defense_special": 97,
+        "speed": 94,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 72
+    },
+    {
+        "id": 72,
+        "name": "Mikasa Ackerman",
+        "anime": "Attack on Titan",
+        "age": 19,
+        "rank": "Combattant confirmé",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Technique spéciale",
+            "Endurance"
+        ],
+        "total": 485,
+        "hp": 72,
+        "attack": 73,
+        "defense": 94,
+        "attack_special": 95,
+        "defense_special": 75,
+        "speed": 76,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 71
+    },
+    {
+        "id": 73,
+        "name": "Armin Arlert",
+        "anime": "Attack on Titan",
+        "age": 19,
+        "rank": "Combattant d'élite",
+        "team": "Organisation",
+        "types": [
+            "Combat",
+            "Stratégie"
+        ],
+        "total": 493,
+        "hp": 79,
+        "attack": 84,
+        "defense": 66,
+        "attack_special": 71,
+        "defense_special": 94,
+        "speed": 99,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 74
+    },
+    {
+        "id": 74,
+        "name": "Levi Ackerman",
+        "anime": "Attack on Titan",
+        "age": 30,
+        "rank": "Héros",
+        "team": "Équipe de combat",
+        "types": [
+            "Pouvoir spécial",
+            "Technique"
+        ],
+        "total": 501,
+        "hp": 86,
+        "attack": 95,
+        "defense": 79,
+        "attack_special": 88,
+        "defense_special": 72,
+        "speed": 81,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": 73
+    },
+    {
+        "id": 75,
+        "name": "Erwin Smith",
+        "anime": "Attack on Titan",
+        "age": 35,
+        "rank": "Guerrier",
+        "team": "Groupe spécial",
+        "types": [
+            "Énergie",
+            "Combat"
+        ],
+        "total": 468,
+        "hp": 93,
+        "attack": 65,
+        "defense": 92,
+        "attack_special": 64,
+        "defense_special": 91,
+        "speed": 63,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": 76
+    },
+    {
+        "id": 76,
+        "name": "Hange Zoe",
+        "anime": "Attack on Titan",
+        "age": 34,
+        "rank": "Maître combattant",
+        "team": "Équipe principale",
+        "types": [
+            "Magie",
+            "Combat"
+        ],
+        "total": 476,
+        "hp": 100,
+        "attack": 76,
+        "defense": 64,
+        "attack_special": 81,
+        "defense_special": 69,
+        "speed": 86,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 75
+    },
+    {
+        "id": 77,
+        "name": "Jean Kirstein",
+        "anime": "Attack on Titan",
+        "age": 19,
+        "rank": "Expert",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Arme",
+            "Agilité"
+        ],
+        "total": 484,
+        "hp": 66,
+        "attack": 87,
+        "defense": 77,
+        "attack_special": 98,
+        "defense_special": 88,
+        "speed": 68,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 78
+    },
+    {
+        "id": 78,
+        "name": "Sasha Blouse",
+        "anime": "Attack on Titan",
+        "age": 20,
+        "rank": "Combattant confirmé",
+        "team": "Organisation",
+        "types": [
+            "Pouvoir surnaturel",
+            "Défense"
+        ],
+        "total": 492,
+        "hp": 73,
+        "attack": 98,
+        "defense": 90,
+        "attack_special": 74,
+        "defense_special": 66,
+        "speed": 91,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 77
+    },
+    {
+        "id": 79,
+        "name": "Reiner Braun",
+        "anime": "Attack on Titan",
+        "age": 21,
+        "rank": "Combattant d'élite",
+        "team": "Équipe de combat",
+        "types": [
+            "Arts martiaux",
+            "Vitesse"
+        ],
+        "total": 459,
+        "hp": 80,
+        "attack": 68,
+        "defense": 62,
+        "attack_special": 91,
+        "defense_special": 85,
+        "speed": 73,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 80,
+        "name": "Annie Leonhart",
+        "anime": "Attack on Titan",
+        "age": 20,
+        "rank": "Héros",
+        "team": "Groupe spécial",
+        "types": [
+            "Technique spéciale",
+            "Endurance"
+        ],
+        "total": 467,
+        "hp": 87,
+        "attack": 79,
+        "defense": 75,
+        "attack_special": 67,
+        "defense_special": 63,
+        "speed": 96,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 81,
+        "name": "Gon Freecss",
+        "anime": "Hunter x Hunter",
+        "age": 12,
+        "rank": "Guerrier",
+        "team": "Équipe principale",
+        "types": [
+            "Combat",
+            "Stratégie"
+        ],
+        "total": 516,
+        "hp": 94,
+        "attack": 90,
+        "defense": 88,
+        "attack_special": 84,
+        "defense_special": 82,
+        "speed": 78,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 82
+    },
+    {
+        "id": 82,
+        "name": "Killua Zoldyck",
+        "anime": "Hunter x Hunter",
+        "age": 12,
+        "rank": "Maître combattant",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Pouvoir spécial",
+            "Technique"
+        ],
+        "total": 360,
+        "hp": 60,
+        "attack": 60,
+        "defense": 60,
+        "attack_special": 60,
+        "defense_special": 60,
+        "speed": 60,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 81
+    },
+    {
+        "id": 83,
+        "name": "Kurapika",
+        "anime": "Hunter x Hunter",
+        "age": 17,
+        "rank": "Expert",
+        "team": "Organisation",
+        "types": [
+            "Énergie",
+            "Combat"
+        ],
+        "total": 450,
+        "hp": 67,
+        "attack": 71,
+        "defense": 73,
+        "attack_special": 77,
+        "defense_special": 79,
+        "speed": 83,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 84
+    },
+    {
+        "id": 84,
+        "name": "Leorio Paradinight",
+        "anime": "Hunter x Hunter",
+        "age": 19,
+        "rank": "Combattant confirmé",
+        "team": "Équipe de combat",
+        "types": [
+            "Magie",
+            "Combat"
+        ],
+        "total": 499,
+        "hp": 74,
+        "attack": 82,
+        "defense": 86,
+        "attack_special": 94,
+        "defense_special": 98,
+        "speed": 65,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": 83
+    },
+    {
+        "id": 85,
+        "name": "Hisoka Morow",
+        "anime": "Hunter x Hunter",
+        "age": 28,
+        "rank": "Combattant d'élite",
+        "team": "Groupe spécial",
+        "types": [
+            "Arme",
+            "Agilité"
+        ],
+        "total": 507,
+        "hp": 81,
+        "attack": 93,
+        "defense": 99,
+        "attack_special": 70,
+        "defense_special": 76,
+        "speed": 88,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": 86
+    },
+    {
+        "id": 86,
+        "name": "Chrollo Lucilfer",
+        "anime": "Hunter x Hunter",
+        "age": 26,
+        "rank": "Héros",
+        "team": "Équipe principale",
+        "types": [
+            "Pouvoir surnaturel",
+            "Défense"
+        ],
+        "total": 474,
+        "hp": 88,
+        "attack": 63,
+        "defense": 71,
+        "attack_special": 87,
+        "defense_special": 95,
+        "speed": 70,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 85
+    },
+    {
+        "id": 87,
+        "name": "Biscuit Krueger",
+        "anime": "Hunter x Hunter",
+        "age": 57,
+        "rank": "Guerrier",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Arts martiaux",
+            "Vitesse"
+        ],
+        "total": 482,
+        "hp": 95,
+        "attack": 74,
+        "defense": 84,
+        "attack_special": 63,
+        "defense_special": 73,
+        "speed": 93,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 88
+    },
+    {
+        "id": 88,
+        "name": "Isaac Netero",
+        "anime": "Hunter x Hunter",
+        "age": 110,
+        "rank": "Maître combattant",
+        "team": "Organisation",
+        "types": [
+            "Technique spéciale",
+            "Endurance"
+        ],
+        "total": 490,
+        "hp": 61,
+        "attack": 85,
+        "defense": 97,
+        "attack_special": 80,
+        "defense_special": 92,
+        "speed": 75,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 87
+    },
+    {
+        "id": 89,
+        "name": "Meruem",
+        "anime": "Hunter x Hunter",
+        "age": 1,
+        "rank": "Expert",
+        "team": "Équipe de combat",
+        "types": [
+            "Combat",
+            "Stratégie"
+        ],
+        "total": 498,
+        "hp": 68,
+        "attack": 96,
+        "defense": 69,
+        "attack_special": 97,
+        "defense_special": 70,
+        "speed": 98,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 90,
+        "name": "Feitan Portor",
+        "anime": "Hunter x Hunter",
+        "age": 28,
+        "rank": "Combattant confirmé",
+        "team": "Groupe spécial",
+        "types": [
+            "Pouvoir spécial",
+            "Technique"
+        ],
+        "total": 465,
+        "hp": 75,
+        "attack": 66,
+        "defense": 82,
+        "attack_special": 73,
+        "defense_special": 89,
+        "speed": 80,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 91,
+        "name": "Edward Elric",
+        "anime": "Fullmetal Alchemist",
+        "age": 16,
+        "rank": "Combattant d'élite",
+        "team": "Équipe principale",
+        "types": [
+            "Énergie",
+            "Combat"
+        ],
+        "total": 473,
+        "hp": 82,
+        "attack": 77,
+        "defense": 95,
+        "attack_special": 90,
+        "defense_special": 67,
+        "speed": 62,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 92
+    },
+    {
+        "id": 92,
+        "name": "Alphonse Elric",
+        "anime": "Fullmetal Alchemist",
+        "age": 14,
+        "rank": "Héros",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Magie",
+            "Combat"
+        ],
+        "total": 481,
+        "hp": 89,
+        "attack": 88,
+        "defense": 67,
+        "attack_special": 66,
+        "defense_special": 86,
+        "speed": 85,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 91
+    },
+    {
+        "id": 93,
+        "name": "Roy Mustang",
+        "anime": "Fullmetal Alchemist",
+        "age": 30,
+        "rank": "Guerrier",
+        "team": "Organisation",
+        "types": [
+            "Arme",
+            "Agilité"
+        ],
+        "total": 489,
+        "hp": 96,
+        "attack": 99,
+        "defense": 80,
+        "attack_special": 83,
+        "defense_special": 64,
+        "speed": 67,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 94
+    },
+    {
+        "id": 94,
+        "name": "Winry Rockbell",
+        "anime": "Fullmetal Alchemist",
+        "age": 16,
+        "rank": "Maître combattant",
+        "team": "Équipe de combat",
+        "types": [
+            "Pouvoir surnaturel",
+            "Défense"
+        ],
+        "total": 497,
+        "hp": 62,
+        "attack": 69,
+        "defense": 93,
+        "attack_special": 100,
+        "defense_special": 83,
+        "speed": 90,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": 93
+    },
+    {
+        "id": 95,
+        "name": "Riza Hawkeye",
+        "anime": "Fullmetal Alchemist",
+        "age": 25,
+        "rank": "Expert",
+        "team": "Groupe spécial",
+        "types": [
+            "Arts martiaux",
+            "Vitesse"
+        ],
+        "total": 423,
+        "hp": 69,
+        "attack": 80,
+        "defense": 65,
+        "attack_special": 76,
+        "defense_special": 61,
+        "speed": 72,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": 96
+    },
+    {
+        "id": 96,
+        "name": "Scar",
+        "anime": "Fullmetal Alchemist",
+        "age": 30,
+        "rank": "Combattant confirmé",
+        "team": "Équipe principale",
+        "types": [
+            "Technique spéciale",
+            "Endurance"
+        ],
+        "total": 513,
+        "hp": 76,
+        "attack": 91,
+        "defense": 78,
+        "attack_special": 93,
+        "defense_special": 80,
+        "speed": 95,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 95
+    },
+    {
+        "id": 97,
+        "name": "King Bradley",
+        "anime": "Fullmetal Alchemist",
+        "age": 60,
+        "rank": "Combattant d'élite",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Combat",
+            "Stratégie"
+        ],
+        "total": 480,
+        "hp": 83,
+        "attack": 61,
+        "defense": 91,
+        "attack_special": 69,
+        "defense_special": 99,
+        "speed": 77,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 98
+    },
+    {
+        "id": 98,
+        "name": "Maes Hughes",
+        "anime": "Fullmetal Alchemist",
+        "age": 29,
+        "rank": "Héros",
+        "team": "Organisation",
+        "types": [
+            "Pouvoir spécial",
+            "Technique"
+        ],
+        "total": 488,
+        "hp": 90,
+        "attack": 72,
+        "defense": 63,
+        "attack_special": 86,
+        "defense_special": 77,
+        "speed": 100,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 97
+    },
+    {
+        "id": 99,
+        "name": "Greed",
+        "anime": "Fullmetal Alchemist",
+        "age": 200,
+        "rank": "Guerrier",
+        "team": "Équipe de combat",
+        "types": [
+            "Énergie",
+            "Combat"
+        ],
+        "total": 496,
+        "hp": 97,
+        "attack": 83,
+        "defense": 76,
+        "attack_special": 62,
+        "defense_special": 96,
+        "speed": 82,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 100,
+        "name": "Ling Yao",
+        "anime": "Fullmetal Alchemist",
+        "age": 18,
+        "rank": "Maître combattant",
+        "team": "Groupe spécial",
+        "types": [
+            "Magie",
+            "Combat"
+        ],
+        "total": 463,
+        "hp": 63,
+        "attack": 94,
+        "defense": 89,
+        "attack_special": 79,
+        "defense_special": 74,
+        "speed": 64,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 101,
+        "name": "Light Yagami",
+        "anime": "Death Note",
+        "age": 17,
+        "rank": "Expert",
+        "team": "Équipe principale",
+        "types": [
+            "Arme",
+            "Agilité"
+        ],
+        "total": 471,
+        "hp": 70,
+        "attack": 64,
+        "defense": 61,
+        "attack_special": 96,
+        "defense_special": 93,
+        "speed": 87,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 102
+    },
+    {
+        "id": 102,
+        "name": "L Lawliet",
+        "anime": "Death Note",
+        "age": 25,
+        "rank": "Combattant confirmé",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Pouvoir surnaturel",
+            "Défense"
+        ],
+        "total": 438,
+        "hp": 77,
+        "attack": 75,
+        "defense": 74,
+        "attack_special": 72,
+        "defense_special": 71,
+        "speed": 69,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 101
+    },
+    {
+        "id": 103,
+        "name": "Misa Amane",
+        "anime": "Death Note",
+        "age": 19,
+        "rank": "Combattant d'élite",
+        "team": "Organisation",
+        "types": [
+            "Arts martiaux",
+            "Vitesse"
+        ],
+        "total": 528,
+        "hp": 84,
+        "attack": 86,
+        "defense": 87,
+        "attack_special": 89,
+        "defense_special": 90,
+        "speed": 92,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 104
+    },
+    {
+        "id": 104,
+        "name": "Near",
+        "anime": "Death Note",
+        "age": 18,
+        "rank": "Héros",
+        "team": "Équipe de combat",
+        "types": [
+            "Technique spéciale",
+            "Endurance"
+        ],
+        "total": 495,
+        "hp": 91,
+        "attack": 97,
+        "defense": 100,
+        "attack_special": 65,
+        "defense_special": 68,
+        "speed": 74,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": 103
+    },
+    {
+        "id": 105,
+        "name": "Mello",
+        "anime": "Death Note",
+        "age": 19,
+        "rank": "Guerrier",
+        "team": "Groupe spécial",
+        "types": [
+            "Combat",
+            "Stratégie"
+        ],
+        "total": 503,
+        "hp": 98,
+        "attack": 67,
+        "defense": 72,
+        "attack_special": 82,
+        "defense_special": 87,
+        "speed": 97,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": 106
+    },
+    {
+        "id": 106,
+        "name": "Soichiro Yagami",
+        "anime": "Death Note",
+        "age": 55,
+        "rank": "Maître combattant",
+        "team": "Équipe principale",
+        "types": [
+            "Pouvoir spécial",
+            "Technique"
+        ],
+        "total": 470,
+        "hp": 64,
+        "attack": 78,
+        "defense": 85,
+        "attack_special": 99,
+        "defense_special": 65,
+        "speed": 79,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 105
+    },
+    {
+        "id": 107,
+        "name": "Teru Mikami",
+        "anime": "Death Note",
+        "age": 27,
+        "rank": "Expert",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Énergie",
+            "Combat"
+        ],
+        "total": 478,
+        "hp": 71,
+        "attack": 89,
+        "defense": 98,
+        "attack_special": 75,
+        "defense_special": 84,
+        "speed": 61,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 108
+    },
+    {
+        "id": 108,
+        "name": "Touta Matsuda",
+        "anime": "Death Note",
+        "age": 25,
+        "rank": "Combattant confirmé",
+        "team": "Organisation",
+        "types": [
+            "Magie",
+            "Combat"
+        ],
+        "total": 486,
+        "hp": 78,
+        "attack": 100,
+        "defense": 70,
+        "attack_special": 92,
+        "defense_special": 62,
+        "speed": 84,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 107
+    },
+    {
+        "id": 109,
+        "name": "Rem",
+        "anime": "Death Note",
+        "age": 100,
+        "rank": "Combattant d'élite",
+        "team": "Équipe de combat",
+        "types": [
+            "Arme",
+            "Agilité"
+        ],
+        "total": 453,
+        "hp": 85,
+        "attack": 70,
+        "defense": 83,
+        "attack_special": 68,
+        "defense_special": 81,
+        "speed": 66,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 110,
+        "name": "Ryuk",
+        "anime": "Death Note",
+        "age": 100,
+        "rank": "Héros",
+        "team": "Groupe spécial",
+        "types": [
+            "Pouvoir surnaturel",
+            "Défense"
+        ],
+        "total": 543,
+        "hp": 92,
+        "attack": 81,
+        "defense": 96,
+        "attack_special": 85,
+        "defense_special": 100,
+        "speed": 89,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 111,
+        "name": "Loid Forger",
+        "anime": "Spy x Family",
+        "age": 30,
+        "rank": "Guerrier",
+        "team": "Équipe principale",
+        "types": [
+            "Arts martiaux",
+            "Vitesse"
+        ],
+        "total": 469,
+        "hp": 99,
+        "attack": 92,
+        "defense": 68,
+        "attack_special": 61,
+        "defense_special": 78,
+        "speed": 71,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 112
+    },
+    {
+        "id": 112,
+        "name": "Yor Forger",
+        "anime": "Spy x Family",
+        "age": 27,
+        "rank": "Maître combattant",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Technique spéciale",
+            "Endurance"
+        ],
+        "total": 477,
+        "hp": 65,
+        "attack": 62,
+        "defense": 81,
+        "attack_special": 78,
+        "defense_special": 97,
+        "speed": 94,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 111
+    },
+    {
+        "id": 113,
+        "name": "Anya Forger",
+        "anime": "Spy x Family",
+        "age": 6,
+        "rank": "Expert",
+        "team": "Organisation",
+        "types": [
+            "Combat",
+            "Stratégie"
+        ],
+        "total": 485,
+        "hp": 72,
+        "attack": 73,
+        "defense": 94,
+        "attack_special": 95,
+        "defense_special": 75,
+        "speed": 76,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 114
+    },
+    {
+        "id": 114,
+        "name": "Bond Forger",
+        "anime": "Spy x Family",
+        "age": 5,
+        "rank": "Combattant confirmé",
+        "team": "Équipe de combat",
+        "types": [
+            "Pouvoir spécial",
+            "Technique"
+        ],
+        "total": 493,
+        "hp": 79,
+        "attack": 84,
+        "defense": 66,
+        "attack_special": 71,
+        "defense_special": 94,
+        "speed": 99,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": 113
+    },
+    {
+        "id": 115,
+        "name": "Franky Franklin",
+        "anime": "Spy x Family",
+        "age": 29,
+        "rank": "Combattant d'élite",
+        "team": "Groupe spécial",
+        "types": [
+            "Énergie",
+            "Combat"
+        ],
+        "total": 501,
+        "hp": 86,
+        "attack": 95,
+        "defense": 79,
+        "attack_special": 88,
+        "defense_special": 72,
+        "speed": 81,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": 116
+    },
+    {
+        "id": 116,
+        "name": "Damian Desmond",
+        "anime": "Spy x Family",
+        "age": 6,
+        "rank": "Héros",
+        "team": "Équipe principale",
+        "types": [
+            "Magie",
+            "Combat"
+        ],
+        "total": 468,
+        "hp": 93,
+        "attack": 65,
+        "defense": 92,
+        "attack_special": 64,
+        "defense_special": 91,
+        "speed": 63,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 115
+    },
+    {
+        "id": 117,
+        "name": "Becky Blackbell",
+        "anime": "Spy x Family",
+        "age": 6,
+        "rank": "Guerrier",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Arme",
+            "Agilité"
+        ],
+        "total": 476,
+        "hp": 100,
+        "attack": 76,
+        "defense": 64,
+        "attack_special": 81,
+        "defense_special": 69,
+        "speed": 86,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 118
+    },
+    {
+        "id": 118,
+        "name": "Sylvia Sherwood",
+        "anime": "Spy x Family",
+        "age": 35,
+        "rank": "Maître combattant",
+        "team": "Organisation",
+        "types": [
+            "Pouvoir surnaturel",
+            "Défense"
+        ],
+        "total": 484,
+        "hp": 66,
+        "attack": 87,
+        "defense": 77,
+        "attack_special": 98,
+        "defense_special": 88,
+        "speed": 68,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 117
+    },
+    {
+        "id": 119,
+        "name": "Fiona Frost",
+        "anime": "Spy x Family",
+        "age": 27,
+        "rank": "Expert",
+        "team": "Équipe de combat",
+        "types": [
+            "Arts martiaux",
+            "Vitesse"
+        ],
+        "total": 492,
+        "hp": 73,
+        "attack": 98,
+        "defense": 90,
+        "attack_special": 74,
+        "defense_special": 66,
+        "speed": 91,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 120,
+        "name": "Donovan Desmond",
+        "anime": "Spy x Family",
+        "age": 50,
+        "rank": "Combattant confirmé",
+        "team": "Groupe spécial",
+        "types": [
+            "Technique spéciale",
+            "Endurance"
+        ],
+        "total": 459,
+        "hp": 80,
+        "attack": 68,
+        "defense": 62,
+        "attack_special": 91,
+        "defense_special": 85,
+        "speed": 73,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 121,
+        "name": "Denji",
+        "anime": "Chainsaw Man",
+        "age": 16,
+        "rank": "Combattant d'élite",
+        "team": "Équipe principale",
+        "types": [
+            "Combat",
+            "Stratégie"
+        ],
+        "total": 467,
+        "hp": 87,
+        "attack": 79,
+        "defense": 75,
+        "attack_special": 67,
+        "defense_special": 63,
+        "speed": 96,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 122
+    },
+    {
+        "id": 122,
+        "name": "Power",
+        "anime": "Chainsaw Man",
+        "age": 17,
+        "rank": "Héros",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Pouvoir spécial",
+            "Technique"
+        ],
+        "total": 516,
+        "hp": 94,
+        "attack": 90,
+        "defense": 88,
+        "attack_special": 84,
+        "defense_special": 82,
+        "speed": 78,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 121
+    },
+    {
+        "id": 123,
+        "name": "Aki Hayakawa",
+        "anime": "Chainsaw Man",
+        "age": 19,
+        "rank": "Guerrier",
+        "team": "Organisation",
+        "types": [
+            "Énergie",
+            "Combat"
+        ],
+        "total": 360,
+        "hp": 60,
+        "attack": 60,
+        "defense": 60,
+        "attack_special": 60,
+        "defense_special": 60,
+        "speed": 60,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 124
+    },
+    {
+        "id": 124,
+        "name": "Makima",
+        "anime": "Chainsaw Man",
+        "age": 30,
+        "rank": "Maître combattant",
+        "team": "Équipe de combat",
+        "types": [
+            "Magie",
+            "Combat"
+        ],
+        "total": 450,
+        "hp": 67,
+        "attack": 71,
+        "defense": 73,
+        "attack_special": 77,
+        "defense_special": 79,
+        "speed": 83,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": 123
+    },
+    {
+        "id": 125,
+        "name": "Kobeni Higashiyama",
+        "anime": "Chainsaw Man",
+        "age": 20,
+        "rank": "Expert",
+        "team": "Groupe spécial",
+        "types": [
+            "Arme",
+            "Agilité"
+        ],
+        "total": 499,
+        "hp": 74,
+        "attack": 82,
+        "defense": 86,
+        "attack_special": 94,
+        "defense_special": 98,
+        "speed": 65,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": 126
+    },
+    {
+        "id": 126,
+        "name": "Himeno",
+        "anime": "Chainsaw Man",
+        "age": 27,
+        "rank": "Combattant confirmé",
+        "team": "Équipe principale",
+        "types": [
+            "Pouvoir surnaturel",
+            "Défense"
+        ],
+        "total": 507,
+        "hp": 81,
+        "attack": 93,
+        "defense": 99,
+        "attack_special": 70,
+        "defense_special": 76,
+        "speed": 88,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 125
+    },
+    {
+        "id": 127,
+        "name": "Kishibe",
+        "anime": "Chainsaw Man",
+        "age": 50,
+        "rank": "Combattant d'élite",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Arts martiaux",
+            "Vitesse"
+        ],
+        "total": 474,
+        "hp": 88,
+        "attack": 63,
+        "defense": 71,
+        "attack_special": 87,
+        "defense_special": 95,
+        "speed": 70,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 128
+    },
+    {
+        "id": 128,
+        "name": "Reze",
+        "anime": "Chainsaw Man",
+        "age": 18,
+        "rank": "Héros",
+        "team": "Organisation",
+        "types": [
+            "Technique spéciale",
+            "Endurance"
+        ],
+        "total": 482,
+        "hp": 95,
+        "attack": 74,
+        "defense": 84,
+        "attack_special": 63,
+        "defense_special": 73,
+        "speed": 93,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 127
+    },
+    {
+        "id": 129,
+        "name": "Angel Devil",
+        "anime": "Chainsaw Man",
+        "age": 20,
+        "rank": "Guerrier",
+        "team": "Équipe de combat",
+        "types": [
+            "Combat",
+            "Stratégie"
+        ],
+        "total": 490,
+        "hp": 61,
+        "attack": 85,
+        "defense": 97,
+        "attack_special": 80,
+        "defense_special": 92,
+        "speed": 75,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 130,
+        "name": "Beam",
+        "anime": "Chainsaw Man",
+        "age": 20,
+        "rank": "Maître combattant",
+        "team": "Groupe spécial",
+        "types": [
+            "Pouvoir spécial",
+            "Technique"
+        ],
+        "total": 498,
+        "hp": 68,
+        "attack": 96,
+        "defense": 69,
+        "attack_special": 97,
+        "defense_special": 70,
+        "speed": 98,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 131,
+        "name": "Ken Kaneki",
+        "anime": "Tokyo Ghoul",
+        "age": 18,
+        "rank": "Expert",
+        "team": "Équipe principale",
+        "types": [
+            "Énergie",
+            "Combat"
+        ],
+        "total": 465,
+        "hp": 75,
+        "attack": 66,
+        "defense": 82,
+        "attack_special": 73,
+        "defense_special": 89,
+        "speed": 80,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 132
+    },
+    {
+        "id": 132,
+        "name": "Touka Kirishima",
+        "anime": "Tokyo Ghoul",
+        "age": 18,
+        "rank": "Combattant confirmé",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Magie",
+            "Combat"
+        ],
+        "total": 473,
+        "hp": 82,
+        "attack": 77,
+        "defense": 95,
+        "attack_special": 90,
+        "defense_special": 67,
+        "speed": 62,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 131
+    },
+    {
+        "id": 133,
+        "name": "Rize Kamishiro",
+        "anime": "Tokyo Ghoul",
+        "age": 18,
+        "rank": "Combattant d'élite",
+        "team": "Organisation",
+        "types": [
+            "Arme",
+            "Agilité"
+        ],
+        "total": 481,
+        "hp": 89,
+        "attack": 88,
+        "defense": 67,
+        "attack_special": 66,
+        "defense_special": 86,
+        "speed": 85,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 134
+    },
+    {
+        "id": 134,
+        "name": "Hideyoshi Nagachika",
+        "anime": "Tokyo Ghoul",
+        "age": 18,
+        "rank": "Héros",
+        "team": "Équipe de combat",
+        "types": [
+            "Pouvoir surnaturel",
+            "Défense"
+        ],
+        "total": 489,
+        "hp": 96,
+        "attack": 99,
+        "defense": 80,
+        "attack_special": 83,
+        "defense_special": 64,
+        "speed": 67,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": 133
+    },
+    {
+        "id": 135,
+        "name": "Shu Tsukiyama",
+        "anime": "Tokyo Ghoul",
+        "age": 25,
+        "rank": "Guerrier",
+        "team": "Groupe spécial",
+        "types": [
+            "Arts martiaux",
+            "Vitesse"
+        ],
+        "total": 497,
+        "hp": 62,
+        "attack": 69,
+        "defense": 93,
+        "attack_special": 100,
+        "defense_special": 83,
+        "speed": 90,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": 136
+    },
+    {
+        "id": 136,
+        "name": "Koutarou Amon",
+        "anime": "Tokyo Ghoul",
+        "age": 26,
+        "rank": "Maître combattant",
+        "team": "Équipe principale",
+        "types": [
+            "Technique spéciale",
+            "Endurance"
+        ],
+        "total": 423,
+        "hp": 69,
+        "attack": 80,
+        "defense": 65,
+        "attack_special": 76,
+        "defense_special": 61,
+        "speed": 72,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 135
+    },
+    {
+        "id": 137,
+        "name": "Juuzou Suzuya",
+        "anime": "Tokyo Ghoul",
+        "age": 19,
+        "rank": "Expert",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Combat",
+            "Stratégie"
+        ],
+        "total": 513,
+        "hp": 76,
+        "attack": 91,
+        "defense": 78,
+        "attack_special": 93,
+        "defense_special": 80,
+        "speed": 95,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 138
+    },
+    {
+        "id": 138,
+        "name": "Akira Mado",
+        "anime": "Tokyo Ghoul",
+        "age": 22,
+        "rank": "Combattant confirmé",
+        "team": "Organisation",
+        "types": [
+            "Pouvoir spécial",
+            "Technique"
+        ],
+        "total": 480,
+        "hp": 83,
+        "attack": 61,
+        "defense": 91,
+        "attack_special": 69,
+        "defense_special": 99,
+        "speed": 77,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 137
+    },
+    {
+        "id": 139,
+        "name": "Eto Yoshimura",
+        "anime": "Tokyo Ghoul",
+        "age": 24,
+        "rank": "Combattant d'élite",
+        "team": "Équipe de combat",
+        "types": [
+            "Énergie",
+            "Combat"
+        ],
+        "total": 488,
+        "hp": 90,
+        "attack": 72,
+        "defense": 63,
+        "attack_special": 86,
+        "defense_special": 77,
+        "speed": 100,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 140,
+        "name": "Nishiki Nishio",
+        "anime": "Tokyo Ghoul",
+        "age": 18,
+        "rank": "Héros",
+        "team": "Groupe spécial",
+        "types": [
+            "Magie",
+            "Combat"
+        ],
+        "total": 496,
+        "hp": 97,
+        "attack": 83,
+        "defense": 76,
+        "attack_special": 62,
+        "defense_special": 96,
+        "speed": 82,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 141,
+        "name": "Asta",
+        "anime": "Black Clover",
+        "age": 17,
+        "rank": "Guerrier",
+        "team": "Équipe principale",
+        "types": [
+            "Arme",
+            "Agilité"
+        ],
+        "total": 463,
+        "hp": 63,
+        "attack": 94,
+        "defense": 89,
+        "attack_special": 79,
+        "defense_special": 74,
+        "speed": 64,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 142
+    },
+    {
+        "id": 142,
+        "name": "Yuno Grinberryall",
+        "anime": "Black Clover",
+        "age": 17,
+        "rank": "Maître combattant",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Pouvoir surnaturel",
+            "Défense"
+        ],
+        "total": 471,
+        "hp": 70,
+        "attack": 64,
+        "defense": 61,
+        "attack_special": 96,
+        "defense_special": 93,
+        "speed": 87,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 141
+    },
+    {
+        "id": 143,
+        "name": "Noelle Silva",
+        "anime": "Black Clover",
+        "age": 17,
+        "rank": "Expert",
+        "team": "Organisation",
+        "types": [
+            "Arts martiaux",
+            "Vitesse"
+        ],
+        "total": 438,
+        "hp": 77,
+        "attack": 75,
+        "defense": 74,
+        "attack_special": 72,
+        "defense_special": 71,
+        "speed": 69,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 144
+    },
+    {
+        "id": 144,
+        "name": "Yami Sukehiro",
+        "anime": "Black Clover",
+        "age": 28,
+        "rank": "Combattant confirmé",
+        "team": "Équipe de combat",
+        "types": [
+            "Technique spéciale",
+            "Endurance"
+        ],
+        "total": 528,
+        "hp": 84,
+        "attack": 86,
+        "defense": 87,
+        "attack_special": 89,
+        "defense_special": 90,
+        "speed": 92,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": 143
+    },
+    {
+        "id": 145,
+        "name": "Luck Voltia",
+        "anime": "Black Clover",
+        "age": 18,
+        "rank": "Combattant d'élite",
+        "team": "Groupe spécial",
+        "types": [
+            "Combat",
+            "Stratégie"
+        ],
+        "total": 495,
+        "hp": 91,
+        "attack": 97,
+        "defense": 100,
+        "attack_special": 65,
+        "defense_special": 68,
+        "speed": 74,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": 146
+    },
+    {
+        "id": 146,
+        "name": "Magna Swing",
+        "anime": "Black Clover",
+        "age": 18,
+        "rank": "Héros",
+        "team": "Équipe principale",
+        "types": [
+            "Pouvoir spécial",
+            "Technique"
+        ],
+        "total": 503,
+        "hp": 98,
+        "attack": 67,
+        "defense": 72,
+        "attack_special": 82,
+        "defense_special": 87,
+        "speed": 97,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 145
+    },
+    {
+        "id": 147,
+        "name": "Finral Roulacase",
+        "anime": "Black Clover",
+        "age": 21,
+        "rank": "Guerrier",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Énergie",
+            "Combat"
+        ],
+        "total": 470,
+        "hp": 64,
+        "attack": 78,
+        "defense": 85,
+        "attack_special": 99,
+        "defense_special": 65,
+        "speed": 79,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 148
+    },
+    {
+        "id": 148,
+        "name": "Vanessa Enoteca",
+        "anime": "Black Clover",
+        "age": 24,
+        "rank": "Maître combattant",
+        "team": "Organisation",
+        "types": [
+            "Magie",
+            "Combat"
+        ],
+        "total": 478,
+        "hp": 71,
+        "attack": 89,
+        "defense": 98,
+        "attack_special": 75,
+        "defense_special": 84,
+        "speed": 61,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 147
+    },
+    {
+        "id": 149,
+        "name": "Mimosa Vermillion",
+        "anime": "Black Clover",
+        "age": 17,
+        "rank": "Expert",
+        "team": "Équipe de combat",
+        "types": [
+            "Arme",
+            "Agilité"
+        ],
+        "total": 486,
+        "hp": 78,
+        "attack": 100,
+        "defense": 70,
+        "attack_special": 92,
+        "defense_special": 62,
+        "speed": 84,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 150,
+        "name": "Julius Novachrono",
+        "anime": "Black Clover",
+        "age": 42,
+        "rank": "Combattant confirmé",
+        "team": "Groupe spécial",
+        "types": [
+            "Pouvoir surnaturel",
+            "Défense"
+        ],
+        "total": 453,
+        "hp": 85,
+        "attack": 70,
+        "defense": 83,
+        "attack_special": 68,
+        "defense_special": 81,
+        "speed": 66,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 151,
+        "name": "Natsu Dragneel",
+        "anime": "Fairy Tail",
+        "age": 17,
+        "rank": "Combattant d'élite",
+        "team": "Équipe principale",
+        "types": [
+            "Arts martiaux",
+            "Vitesse"
+        ],
+        "total": 543,
+        "hp": 92,
+        "attack": 81,
+        "defense": 96,
+        "attack_special": 85,
+        "defense_special": 100,
+        "speed": 89,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 152
+    },
+    {
+        "id": 152,
+        "name": "Lucy Heartfilia",
+        "anime": "Fairy Tail",
+        "age": 17,
+        "rank": "Héros",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Technique spéciale",
+            "Endurance"
+        ],
+        "total": 469,
+        "hp": 99,
+        "attack": 92,
+        "defense": 68,
+        "attack_special": 61,
+        "defense_special": 78,
+        "speed": 71,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 151
+    },
+    {
+        "id": 153,
+        "name": "Erza Scarlet",
+        "anime": "Fairy Tail",
+        "age": 19,
+        "rank": "Guerrier",
+        "team": "Organisation",
+        "types": [
+            "Combat",
+            "Stratégie"
+        ],
+        "total": 477,
+        "hp": 65,
+        "attack": 62,
+        "defense": 81,
+        "attack_special": 78,
+        "defense_special": 97,
+        "speed": 94,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 154
+    },
+    {
+        "id": 154,
+        "name": "Gray Fullbuster",
+        "anime": "Fairy Tail",
+        "age": 18,
+        "rank": "Maître combattant",
+        "team": "Équipe de combat",
+        "types": [
+            "Pouvoir spécial",
+            "Technique"
+        ],
+        "total": 485,
+        "hp": 72,
+        "attack": 73,
+        "defense": 94,
+        "attack_special": 95,
+        "defense_special": 75,
+        "speed": 76,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": 153
+    },
+    {
+        "id": 155,
+        "name": "Wendy Marvell",
+        "anime": "Fairy Tail",
+        "age": 12,
+        "rank": "Expert",
+        "team": "Groupe spécial",
+        "types": [
+            "Énergie",
+            "Combat"
+        ],
+        "total": 493,
+        "hp": 79,
+        "attack": 84,
+        "defense": 66,
+        "attack_special": 71,
+        "defense_special": 94,
+        "speed": 99,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": 156
+    },
+    {
+        "id": 156,
+        "name": "Happy",
+        "anime": "Fairy Tail",
+        "age": 6,
+        "rank": "Combattant confirmé",
+        "team": "Équipe principale",
+        "types": [
+            "Magie",
+            "Combat"
+        ],
+        "total": 501,
+        "hp": 86,
+        "attack": 95,
+        "defense": 79,
+        "attack_special": 88,
+        "defense_special": 72,
+        "speed": 81,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 155
+    },
+    {
+        "id": 157,
+        "name": "Juvia Lockser",
+        "anime": "Fairy Tail",
+        "age": 18,
+        "rank": "Combattant d'élite",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Arme",
+            "Agilité"
+        ],
+        "total": 468,
+        "hp": 93,
+        "attack": 65,
+        "defense": 92,
+        "attack_special": 64,
+        "defense_special": 91,
+        "speed": 63,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 158
+    },
+    {
+        "id": 158,
+        "name": "Gajeel Redfox",
+        "anime": "Fairy Tail",
+        "age": 20,
+        "rank": "Héros",
+        "team": "Organisation",
+        "types": [
+            "Pouvoir surnaturel",
+            "Défense"
+        ],
+        "total": 476,
+        "hp": 100,
+        "attack": 76,
+        "defense": 64,
+        "attack_special": 81,
+        "defense_special": 69,
+        "speed": 86,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 157
+    },
+    {
+        "id": 159,
+        "name": "Mirajane Strauss",
+        "anime": "Fairy Tail",
+        "age": 19,
+        "rank": "Guerrier",
+        "team": "Équipe de combat",
+        "types": [
+            "Arts martiaux",
+            "Vitesse"
+        ],
+        "total": 484,
+        "hp": 66,
+        "attack": 87,
+        "defense": 77,
+        "attack_special": 98,
+        "defense_special": 88,
+        "speed": 68,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 160,
+        "name": "Laxus Dreyar",
+        "anime": "Fairy Tail",
+        "age": 23,
+        "rank": "Maître combattant",
+        "team": "Groupe spécial",
+        "types": [
+            "Technique spéciale",
+            "Endurance"
+        ],
+        "total": 492,
+        "hp": 73,
+        "attack": 98,
+        "defense": 90,
+        "attack_special": 74,
+        "defense_special": 66,
+        "speed": 91,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 161,
+        "name": "Kirito",
+        "anime": "Sword Art Online",
+        "age": 17,
+        "rank": "Expert",
+        "team": "Équipe principale",
+        "types": [
+            "Combat",
+            "Stratégie"
+        ],
+        "total": 459,
+        "hp": 80,
+        "attack": 68,
+        "defense": 62,
+        "attack_special": 91,
+        "defense_special": 85,
+        "speed": 73,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 162
+    },
+    {
+        "id": 162,
+        "name": "Asuna Yuuki",
+        "anime": "Sword Art Online",
+        "age": 17,
+        "rank": "Combattant confirmé",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Pouvoir spécial",
+            "Technique"
+        ],
+        "total": 467,
+        "hp": 87,
+        "attack": 79,
+        "defense": 75,
+        "attack_special": 67,
+        "defense_special": 63,
+        "speed": 96,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 161
+    },
+    {
+        "id": 163,
+        "name": "Sinon",
+        "anime": "Sword Art Online",
+        "age": 16,
+        "rank": "Combattant d'élite",
+        "team": "Organisation",
+        "types": [
+            "Énergie",
+            "Combat"
+        ],
+        "total": 516,
+        "hp": 94,
+        "attack": 90,
+        "defense": 88,
+        "attack_special": 84,
+        "defense_special": 82,
+        "speed": 78,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 164
+    },
+    {
+        "id": 164,
+        "name": "Leafa",
+        "anime": "Sword Art Online",
+        "age": 15,
+        "rank": "Héros",
+        "team": "Équipe de combat",
+        "types": [
+            "Magie",
+            "Combat"
+        ],
+        "total": 360,
+        "hp": 60,
+        "attack": 60,
+        "defense": 60,
+        "attack_special": 60,
+        "defense_special": 60,
+        "speed": 60,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": 163
+    },
+    {
+        "id": 165,
+        "name": "Klein",
+        "anime": "Sword Art Online",
+        "age": 24,
+        "rank": "Guerrier",
+        "team": "Groupe spécial",
+        "types": [
+            "Arme",
+            "Agilité"
+        ],
+        "total": 450,
+        "hp": 67,
+        "attack": 71,
+        "defense": 73,
+        "attack_special": 77,
+        "defense_special": 79,
+        "speed": 83,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": 166
+    },
+    {
+        "id": 166,
+        "name": "Agil",
+        "anime": "Sword Art Online",
+        "age": 28,
+        "rank": "Maître combattant",
+        "team": "Équipe principale",
+        "types": [
+            "Pouvoir surnaturel",
+            "Défense"
+        ],
+        "total": 499,
+        "hp": 74,
+        "attack": 82,
+        "defense": 86,
+        "attack_special": 94,
+        "defense_special": 98,
+        "speed": 65,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 165
+    },
+    {
+        "id": 167,
+        "name": "Yui",
+        "anime": "Sword Art Online",
+        "age": 1,
+        "rank": "Expert",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Arts martiaux",
+            "Vitesse"
+        ],
+        "total": 507,
+        "hp": 81,
+        "attack": 93,
+        "defense": 99,
+        "attack_special": 70,
+        "defense_special": 76,
+        "speed": 88,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 168
+    },
+    {
+        "id": 168,
+        "name": "Alice Zuberg",
+        "anime": "Sword Art Online",
+        "age": 19,
+        "rank": "Combattant confirmé",
+        "team": "Organisation",
+        "types": [
+            "Technique spéciale",
+            "Endurance"
+        ],
+        "total": 474,
+        "hp": 88,
+        "attack": 63,
+        "defense": 71,
+        "attack_special": 87,
+        "defense_special": 95,
+        "speed": 70,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 167
+    },
+    {
+        "id": 169,
+        "name": "Eugeo",
+        "anime": "Sword Art Online",
+        "age": 19,
+        "rank": "Combattant d'élite",
+        "team": "Équipe de combat",
+        "types": [
+            "Combat",
+            "Stratégie"
+        ],
+        "total": 482,
+        "hp": 95,
+        "attack": 74,
+        "defense": 84,
+        "attack_special": 63,
+        "defense_special": 73,
+        "speed": 93,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 170,
+        "name": "Kayaba Akihiko",
+        "anime": "Sword Art Online",
+        "age": 31,
+        "rank": "Héros",
+        "team": "Groupe spécial",
+        "types": [
+            "Pouvoir spécial",
+            "Technique"
+        ],
+        "total": 490,
+        "hp": 61,
+        "attack": 85,
+        "defense": 97,
+        "attack_special": 80,
+        "defense_special": 92,
+        "speed": 75,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 171,
+        "name": "Jonathan Joestar",
+        "anime": "JoJo's Bizarre Adventure",
+        "age": 20,
+        "rank": "Guerrier",
+        "team": "Équipe principale",
+        "types": [
+            "Énergie",
+            "Combat"
+        ],
+        "total": 498,
+        "hp": 68,
+        "attack": 96,
+        "defense": 69,
+        "attack_special": 97,
+        "defense_special": 70,
+        "speed": 98,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 172
+    },
+    {
+        "id": 172,
+        "name": "Joseph Joestar",
+        "anime": "JoJo's Bizarre Adventure",
+        "age": 18,
+        "rank": "Maître combattant",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Magie",
+            "Combat"
+        ],
+        "total": 465,
+        "hp": 75,
+        "attack": 66,
+        "defense": 82,
+        "attack_special": 73,
+        "defense_special": 89,
+        "speed": 80,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 171
+    },
+    {
+        "id": 173,
+        "name": "Jotaro Kujo",
+        "anime": "JoJo's Bizarre Adventure",
+        "age": 17,
+        "rank": "Expert",
+        "team": "Organisation",
+        "types": [
+            "Arme",
+            "Agilité"
+        ],
+        "total": 473,
+        "hp": 82,
+        "attack": 77,
+        "defense": 95,
+        "attack_special": 90,
+        "defense_special": 67,
+        "speed": 62,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 174
+    },
+    {
+        "id": 174,
+        "name": "Josuke Higashikata",
+        "anime": "JoJo's Bizarre Adventure",
+        "age": 16,
+        "rank": "Combattant confirmé",
+        "team": "Équipe de combat",
+        "types": [
+            "Pouvoir surnaturel",
+            "Défense"
+        ],
+        "total": 481,
+        "hp": 89,
+        "attack": 88,
+        "defense": 67,
+        "attack_special": 66,
+        "defense_special": 86,
+        "speed": 85,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": 173
+    },
+    {
+        "id": 175,
+        "name": "Giorno Giovanna",
+        "anime": "JoJo's Bizarre Adventure",
+        "age": 15,
+        "rank": "Combattant d'élite",
+        "team": "Groupe spécial",
+        "types": [
+            "Arts martiaux",
+            "Vitesse"
+        ],
+        "total": 489,
+        "hp": 96,
+        "attack": 99,
+        "defense": 80,
+        "attack_special": 83,
+        "defense_special": 64,
+        "speed": 67,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": 176
+    },
+    {
+        "id": 176,
+        "name": "Jolyne Cujoh",
+        "anime": "JoJo's Bizarre Adventure",
+        "age": 19,
+        "rank": "Héros",
+        "team": "Équipe principale",
+        "types": [
+            "Technique spéciale",
+            "Endurance"
+        ],
+        "total": 497,
+        "hp": 62,
+        "attack": 69,
+        "defense": 93,
+        "attack_special": 100,
+        "defense_special": 83,
+        "speed": 90,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 175
+    },
+    {
+        "id": 177,
+        "name": "Dio Brando",
+        "anime": "JoJo's Bizarre Adventure",
+        "age": 121,
+        "rank": "Guerrier",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Combat",
+            "Stratégie"
+        ],
+        "total": 423,
+        "hp": 69,
+        "attack": 80,
+        "defense": 65,
+        "attack_special": 76,
+        "defense_special": 61,
+        "speed": 72,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 178
+    },
+    {
+        "id": 178,
+        "name": "Bruno Bucciarati",
+        "anime": "JoJo's Bizarre Adventure",
+        "age": 20,
+        "rank": "Maître combattant",
+        "team": "Organisation",
+        "types": [
+            "Pouvoir spécial",
+            "Technique"
+        ],
+        "total": 513,
+        "hp": 76,
+        "attack": 91,
+        "defense": 78,
+        "attack_special": 93,
+        "defense_special": 80,
+        "speed": 95,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 177
+    },
+    {
+        "id": 179,
+        "name": "Jean Pierre Polnareff",
+        "anime": "JoJo's Bizarre Adventure",
+        "age": 24,
+        "rank": "Expert",
+        "team": "Équipe de combat",
+        "types": [
+            "Énergie",
+            "Combat"
+        ],
+        "total": 480,
+        "hp": 83,
+        "attack": 61,
+        "defense": 91,
+        "attack_special": 69,
+        "defense_special": 99,
+        "speed": 77,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 180,
+        "name": "Rohan Kishibe",
+        "anime": "JoJo's Bizarre Adventure",
+        "age": 20,
+        "rank": "Combattant confirmé",
+        "team": "Groupe spécial",
+        "types": [
+            "Magie",
+            "Combat"
+        ],
+        "total": 488,
+        "hp": 90,
+        "attack": 72,
+        "defense": 63,
+        "attack_special": 86,
+        "defense_special": 77,
+        "speed": 100,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 181,
+        "name": "Shoyo Hinata",
+        "anime": "Haikyuu!!",
+        "age": 16,
+        "rank": "Combattant d'élite",
+        "team": "Équipe principale",
+        "types": [
+            "Arme",
+            "Agilité"
+        ],
+        "total": 496,
+        "hp": 97,
+        "attack": 83,
+        "defense": 76,
+        "attack_special": 62,
+        "defense_special": 96,
+        "speed": 82,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 182
+    },
+    {
+        "id": 182,
+        "name": "Tobio Kageyama",
+        "anime": "Haikyuu!!",
+        "age": 16,
+        "rank": "Héros",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Pouvoir surnaturel",
+            "Défense"
+        ],
+        "total": 463,
+        "hp": 63,
+        "attack": 94,
+        "defense": 89,
+        "attack_special": 79,
+        "defense_special": 74,
+        "speed": 64,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 181
+    },
+    {
+        "id": 183,
+        "name": "Daichi Sawamura",
+        "anime": "Haikyuu!!",
+        "age": 18,
+        "rank": "Guerrier",
+        "team": "Organisation",
+        "types": [
+            "Arts martiaux",
+            "Vitesse"
+        ],
+        "total": 471,
+        "hp": 70,
+        "attack": 64,
+        "defense": 61,
+        "attack_special": 96,
+        "defense_special": 93,
+        "speed": 87,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 184
+    },
+    {
+        "id": 184,
+        "name": "Koshi Sugawara",
+        "anime": "Haikyuu!!",
+        "age": 18,
+        "rank": "Maître combattant",
+        "team": "Équipe de combat",
+        "types": [
+            "Technique spéciale",
+            "Endurance"
+        ],
+        "total": 438,
+        "hp": 77,
+        "attack": 75,
+        "defense": 74,
+        "attack_special": 72,
+        "defense_special": 71,
+        "speed": 69,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": 183
+    },
+    {
+        "id": 185,
+        "name": "Asahi Azumane",
+        "anime": "Haikyuu!!",
+        "age": 18,
+        "rank": "Expert",
+        "team": "Groupe spécial",
+        "types": [
+            "Combat",
+            "Stratégie"
+        ],
+        "total": 528,
+        "hp": 84,
+        "attack": 86,
+        "defense": 87,
+        "attack_special": 89,
+        "defense_special": 90,
+        "speed": 92,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": 186
+    },
+    {
+        "id": 186,
+        "name": "Yu Nishinoya",
+        "anime": "Haikyuu!!",
+        "age": 17,
+        "rank": "Combattant confirmé",
+        "team": "Équipe principale",
+        "types": [
+            "Pouvoir spécial",
+            "Technique"
+        ],
+        "total": 495,
+        "hp": 91,
+        "attack": 97,
+        "defense": 100,
+        "attack_special": 65,
+        "defense_special": 68,
+        "speed": 74,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 185
+    },
+    {
+        "id": 187,
+        "name": "Ryunosuke Tanaka",
+        "anime": "Haikyuu!!",
+        "age": 17,
+        "rank": "Combattant d'élite",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Énergie",
+            "Combat"
+        ],
+        "total": 503,
+        "hp": 98,
+        "attack": 67,
+        "defense": 72,
+        "attack_special": 82,
+        "defense_special": 87,
+        "speed": 97,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 188
+    },
+    {
+        "id": 188,
+        "name": "Kei Tsukishima",
+        "anime": "Haikyuu!!",
+        "age": 16,
+        "rank": "Héros",
+        "team": "Organisation",
+        "types": [
+            "Magie",
+            "Combat"
+        ],
+        "total": 470,
+        "hp": 64,
+        "attack": 78,
+        "defense": 85,
+        "attack_special": 99,
+        "defense_special": 65,
+        "speed": 79,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 187
+    },
+    {
+        "id": 189,
+        "name": "Tadashi Yamaguchi",
+        "anime": "Haikyuu!!",
+        "age": 16,
+        "rank": "Guerrier",
+        "team": "Équipe de combat",
+        "types": [
+            "Arme",
+            "Agilité"
+        ],
+        "total": 478,
+        "hp": 71,
+        "attack": 89,
+        "defense": 98,
+        "attack_special": 75,
+        "defense_special": 84,
+        "speed": 61,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 190,
+        "name": "Toru Oikawa",
+        "anime": "Haikyuu!!",
+        "age": 18,
+        "rank": "Maître combattant",
+        "team": "Groupe spécial",
+        "types": [
+            "Pouvoir surnaturel",
+            "Défense"
+        ],
+        "total": 486,
+        "hp": 78,
+        "attack": 100,
+        "defense": 70,
+        "attack_special": 92,
+        "defense_special": 62,
+        "speed": 84,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 191,
+        "name": "Yoichi Isagi",
+        "anime": "Blue Lock",
+        "age": 16,
+        "rank": "Expert",
+        "team": "Équipe principale",
+        "types": [
+            "Arts martiaux",
+            "Vitesse"
+        ],
+        "total": 453,
+        "hp": 85,
+        "attack": 70,
+        "defense": 83,
+        "attack_special": 68,
+        "defense_special": 81,
+        "speed": 66,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 192
+    },
+    {
+        "id": 192,
+        "name": "Meguru Bachira",
+        "anime": "Blue Lock",
+        "age": 17,
+        "rank": "Combattant confirmé",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Technique spéciale",
+            "Endurance"
+        ],
+        "total": 543,
+        "hp": 92,
+        "attack": 81,
+        "defense": 96,
+        "attack_special": 85,
+        "defense_special": 100,
+        "speed": 89,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 191
+    },
+    {
+        "id": 193,
+        "name": "Rensuke Kunigami",
+        "anime": "Blue Lock",
+        "age": 17,
+        "rank": "Combattant d'élite",
+        "team": "Organisation",
+        "types": [
+            "Combat",
+            "Stratégie"
+        ],
+        "total": 469,
+        "hp": 99,
+        "attack": 92,
+        "defense": 68,
+        "attack_special": 61,
+        "defense_special": 78,
+        "speed": 71,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 194
+    },
+    {
+        "id": 194,
+        "name": "Hyoma Chigiri",
+        "anime": "Blue Lock",
+        "age": 16,
+        "rank": "Héros",
+        "team": "Équipe de combat",
+        "types": [
+            "Pouvoir spécial",
+            "Technique"
+        ],
+        "total": 477,
+        "hp": 65,
+        "attack": 62,
+        "defense": 81,
+        "attack_special": 78,
+        "defense_special": 97,
+        "speed": 94,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": 193
+    },
+    {
+        "id": 195,
+        "name": "Seishiro Nagi",
+        "anime": "Blue Lock",
+        "age": 17,
+        "rank": "Guerrier",
+        "team": "Groupe spécial",
+        "types": [
+            "Énergie",
+            "Combat"
+        ],
+        "total": 485,
+        "hp": 72,
+        "attack": 73,
+        "defense": 94,
+        "attack_special": 95,
+        "defense_special": 75,
+        "speed": 76,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": 196
+    },
+    {
+        "id": 196,
+        "name": "Reo Mikage",
+        "anime": "Blue Lock",
+        "age": 17,
+        "rank": "Maître combattant",
+        "team": "Équipe principale",
+        "types": [
+            "Magie",
+            "Combat"
+        ],
+        "total": 493,
+        "hp": 79,
+        "attack": 84,
+        "defense": 66,
+        "attack_special": 71,
+        "defense_special": 94,
+        "speed": 99,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 195
+    },
+    {
+        "id": 197,
+        "name": "Rin Itoshi",
+        "anime": "Blue Lock",
+        "age": 16,
+        "rank": "Expert",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Arme",
+            "Agilité"
+        ],
+        "total": 501,
+        "hp": 86,
+        "attack": 95,
+        "defense": 79,
+        "attack_special": 88,
+        "defense_special": 72,
+        "speed": 81,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 198
+    },
+    {
+        "id": 198,
+        "name": "Shoei Barou",
+        "anime": "Blue Lock",
+        "age": 18,
+        "rank": "Combattant confirmé",
+        "team": "Organisation",
+        "types": [
+            "Pouvoir surnaturel",
+            "Défense"
+        ],
+        "total": 468,
+        "hp": 93,
+        "attack": 65,
+        "defense": 92,
+        "attack_special": 64,
+        "defense_special": 91,
+        "speed": 63,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 197
+    },
+    {
+        "id": 199,
+        "name": "Jingo Raichi",
+        "anime": "Blue Lock",
+        "age": 17,
+        "rank": "Combattant d'élite",
+        "team": "Équipe de combat",
+        "types": [
+            "Arts martiaux",
+            "Vitesse"
+        ],
+        "total": 476,
+        "hp": 100,
+        "attack": 76,
+        "defense": 64,
+        "attack_special": 81,
+        "defense_special": 69,
+        "speed": 86,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 200,
+        "name": "Sae Itoshi",
+        "anime": "Blue Lock",
+        "age": 18,
+        "rank": "Héros",
+        "team": "Groupe spécial",
+        "types": [
+            "Technique spéciale",
+            "Endurance"
+        ],
+        "total": 484,
+        "hp": 66,
+        "attack": 87,
+        "defense": 77,
+        "attack_special": 98,
+        "defense_special": 88,
+        "speed": 68,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 201,
+        "name": "Shigeo Kageyama",
+        "anime": "Mob Psycho 100",
+        "age": 14,
+        "rank": "Guerrier",
+        "team": "Équipe principale",
+        "types": [
+            "Combat",
+            "Stratégie"
+        ],
+        "total": 492,
+        "hp": 73,
+        "attack": 98,
+        "defense": 90,
+        "attack_special": 74,
+        "defense_special": 66,
+        "speed": 91,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 202
+    },
+    {
+        "id": 202,
+        "name": "Arataka Reigen",
+        "anime": "Mob Psycho 100",
+        "age": 28,
+        "rank": "Maître combattant",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Pouvoir spécial",
+            "Technique"
+        ],
+        "total": 459,
+        "hp": 80,
+        "attack": 68,
+        "defense": 62,
+        "attack_special": 91,
+        "defense_special": 85,
+        "speed": 73,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 201
+    },
+    {
+        "id": 203,
+        "name": "Ritsu Kageyama",
+        "anime": "Mob Psycho 100",
+        "age": 13,
+        "rank": "Expert",
+        "team": "Organisation",
+        "types": [
+            "Énergie",
+            "Combat"
+        ],
+        "total": 467,
+        "hp": 87,
+        "attack": 79,
+        "defense": 75,
+        "attack_special": 67,
+        "defense_special": 63,
+        "speed": 96,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 204
+    },
+    {
+        "id": 204,
+        "name": "Teruki Hanazawa",
+        "anime": "Mob Psycho 100",
+        "age": 14,
+        "rank": "Combattant confirmé",
+        "team": "Équipe de combat",
+        "types": [
+            "Magie",
+            "Combat"
+        ],
+        "total": 516,
+        "hp": 94,
+        "attack": 90,
+        "defense": 88,
+        "attack_special": 84,
+        "defense_special": 82,
+        "speed": 78,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": 203
+    },
+    {
+        "id": 205,
+        "name": "Dimple",
+        "anime": "Mob Psycho 100",
+        "age": 100,
+        "rank": "Combattant d'élite",
+        "team": "Groupe spécial",
+        "types": [
+            "Arme",
+            "Agilité"
+        ],
+        "total": 360,
+        "hp": 60,
+        "attack": 60,
+        "defense": 60,
+        "attack_special": 60,
+        "defense_special": 60,
+        "speed": 60,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": 206
+    },
+    {
+        "id": 206,
+        "name": "Musashi Goda",
+        "anime": "Mob Psycho 100",
+        "age": 14,
+        "rank": "Héros",
+        "team": "Équipe principale",
+        "types": [
+            "Pouvoir surnaturel",
+            "Défense"
+        ],
+        "total": 450,
+        "hp": 67,
+        "attack": 71,
+        "defense": 73,
+        "attack_special": 77,
+        "defense_special": 79,
+        "speed": 83,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 205
+    },
+    {
+        "id": 207,
+        "name": "Tome Kurata",
+        "anime": "Mob Psycho 100",
+        "age": 14,
+        "rank": "Guerrier",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Arts martiaux",
+            "Vitesse"
+        ],
+        "total": 499,
+        "hp": 74,
+        "attack": 82,
+        "defense": 86,
+        "attack_special": 94,
+        "defense_special": 98,
+        "speed": 65,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 208
+    },
+    {
+        "id": 208,
+        "name": "Sho Suzuki",
+        "anime": "Mob Psycho 100",
+        "age": 15,
+        "rank": "Maître combattant",
+        "team": "Organisation",
+        "types": [
+            "Technique spéciale",
+            "Endurance"
+        ],
+        "total": 507,
+        "hp": 81,
+        "attack": 93,
+        "defense": 99,
+        "attack_special": 70,
+        "defense_special": 76,
+        "speed": 88,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 207
+    },
+    {
+        "id": 209,
+        "name": "Toichiro Suzuki",
+        "anime": "Mob Psycho 100",
+        "age": 40,
+        "rank": "Expert",
+        "team": "Équipe de combat",
+        "types": [
+            "Combat",
+            "Stratégie"
+        ],
+        "total": 474,
+        "hp": 88,
+        "attack": 63,
+        "defense": 71,
+        "attack_special": 87,
+        "defense_special": 95,
+        "speed": 70,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 210,
+        "name": "Mezato Ichi",
+        "anime": "Mob Psycho 100",
+        "age": 14,
+        "rank": "Combattant confirmé",
+        "team": "Groupe spécial",
+        "types": [
+            "Pouvoir spécial",
+            "Technique"
+        ],
+        "total": 482,
+        "hp": 95,
+        "attack": 74,
+        "defense": 84,
+        "attack_special": 63,
+        "defense_special": 73,
+        "speed": 93,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 211,
+        "name": "Meliodas",
+        "anime": "The Seven Deadly Sins",
+        "age": 3000,
+        "rank": "Combattant d'élite",
+        "team": "Équipe principale",
+        "types": [
+            "Énergie",
+            "Combat"
+        ],
+        "total": 490,
+        "hp": 61,
+        "attack": 85,
+        "defense": 97,
+        "attack_special": 80,
+        "defense_special": 92,
+        "speed": 75,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 212
+    },
+    {
+        "id": 212,
+        "name": "Elizabeth Liones",
+        "anime": "The Seven Deadly Sins",
+        "age": 16,
+        "rank": "Héros",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Magie",
+            "Combat"
+        ],
+        "total": 498,
+        "hp": 68,
+        "attack": 96,
+        "defense": 69,
+        "attack_special": 97,
+        "defense_special": 70,
+        "speed": 98,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 211
+    },
+    {
+        "id": 213,
+        "name": "Ban",
+        "anime": "The Seven Deadly Sins",
+        "age": 43,
+        "rank": "Guerrier",
+        "team": "Organisation",
+        "types": [
+            "Arme",
+            "Agilité"
+        ],
+        "total": 465,
+        "hp": 75,
+        "attack": 66,
+        "defense": 82,
+        "attack_special": 73,
+        "defense_special": 89,
+        "speed": 80,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 214
+    },
+    {
+        "id": 214,
+        "name": "King",
+        "anime": "The Seven Deadly Sins",
+        "age": 1300,
+        "rank": "Maître combattant",
+        "team": "Équipe de combat",
+        "types": [
+            "Pouvoir surnaturel",
+            "Défense"
+        ],
+        "total": 473,
+        "hp": 82,
+        "attack": 77,
+        "defense": 95,
+        "attack_special": 90,
+        "defense_special": 67,
+        "speed": 62,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": 213
+    },
+    {
+        "id": 215,
+        "name": "Diane",
+        "anime": "The Seven Deadly Sins",
+        "age": 750,
+        "rank": "Expert",
+        "team": "Groupe spécial",
+        "types": [
+            "Arts martiaux",
+            "Vitesse"
+        ],
+        "total": 481,
+        "hp": 89,
+        "attack": 88,
+        "defense": 67,
+        "attack_special": 66,
+        "defense_special": 86,
+        "speed": 85,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": 216
+    },
+    {
+        "id": 216,
+        "name": "Gowther",
+        "anime": "The Seven Deadly Sins",
+        "age": 3000,
+        "rank": "Combattant confirmé",
+        "team": "Équipe principale",
+        "types": [
+            "Technique spéciale",
+            "Endurance"
+        ],
+        "total": 489,
+        "hp": 96,
+        "attack": 99,
+        "defense": 80,
+        "attack_special": 83,
+        "defense_special": 64,
+        "speed": 67,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 215
+    },
+    {
+        "id": 217,
+        "name": "Merlin",
+        "anime": "The Seven Deadly Sins",
+        "age": 3000,
+        "rank": "Combattant d'élite",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Combat",
+            "Stratégie"
+        ],
+        "total": 497,
+        "hp": 62,
+        "attack": 69,
+        "defense": 93,
+        "attack_special": 100,
+        "defense_special": 83,
+        "speed": 90,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 218
+    },
+    {
+        "id": 218,
+        "name": "Escanor",
+        "anime": "The Seven Deadly Sins",
+        "age": 40,
+        "rank": "Héros",
+        "team": "Organisation",
+        "types": [
+            "Pouvoir spécial",
+            "Technique"
+        ],
+        "total": 423,
+        "hp": 69,
+        "attack": 80,
+        "defense": 65,
+        "attack_special": 76,
+        "defense_special": 61,
+        "speed": 72,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 217
+    },
+    {
+        "id": 219,
+        "name": "Hawk",
+        "anime": "The Seven Deadly Sins",
+        "age": 16,
+        "rank": "Guerrier",
+        "team": "Équipe de combat",
+        "types": [
+            "Énergie",
+            "Combat"
+        ],
+        "total": 513,
+        "hp": 76,
+        "attack": 91,
+        "defense": 78,
+        "attack_special": 93,
+        "defense_special": 80,
+        "speed": 95,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 220,
+        "name": "Zeldris",
+        "anime": "The Seven Deadly Sins",
+        "age": 252,
+        "rank": "Maître combattant",
+        "team": "Groupe spécial",
+        "types": [
+            "Magie",
+            "Combat"
+        ],
+        "total": 480,
+        "hp": 83,
+        "attack": 61,
+        "defense": 91,
+        "attack_special": 69,
+        "defense_special": 99,
+        "speed": 77,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 221,
+        "name": "Subaru Natsuki",
+        "anime": "Re:Zero",
+        "age": 18,
+        "rank": "Expert",
+        "team": "Équipe principale",
+        "types": [
+            "Arme",
+            "Agilité"
+        ],
+        "total": 488,
+        "hp": 90,
+        "attack": 72,
+        "defense": 63,
+        "attack_special": 86,
+        "defense_special": 77,
+        "speed": 100,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 222
+    },
+    {
+        "id": 222,
+        "name": "Emilia",
+        "anime": "Re:Zero",
+        "age": 18,
+        "rank": "Combattant confirmé",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Pouvoir surnaturel",
+            "Défense"
+        ],
+        "total": 496,
+        "hp": 97,
+        "attack": 83,
+        "defense": 76,
+        "attack_special": 62,
+        "defense_special": 96,
+        "speed": 82,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 221
+    },
+    {
+        "id": 223,
+        "name": "Rem",
+        "anime": "Re:Zero",
+        "age": 18,
+        "rank": "Combattant d'élite",
+        "team": "Organisation",
+        "types": [
+            "Arts martiaux",
+            "Vitesse"
+        ],
+        "total": 463,
+        "hp": 63,
+        "attack": 94,
+        "defense": 89,
+        "attack_special": 79,
+        "defense_special": 74,
+        "speed": 64,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 224
+    },
+    {
+        "id": 224,
+        "name": "Ram",
+        "anime": "Re:Zero",
+        "age": 18,
+        "rank": "Héros",
+        "team": "Équipe de combat",
+        "types": [
+            "Technique spéciale",
+            "Endurance"
+        ],
+        "total": 471,
+        "hp": 70,
+        "attack": 64,
+        "defense": 61,
+        "attack_special": 96,
+        "defense_special": 93,
+        "speed": 87,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": 223
+    },
+    {
+        "id": 225,
+        "name": "Beatrice",
+        "anime": "Re:Zero",
+        "age": 400,
+        "rank": "Guerrier",
+        "team": "Groupe spécial",
+        "types": [
+            "Combat",
+            "Stratégie"
+        ],
+        "total": 438,
+        "hp": 77,
+        "attack": 75,
+        "defense": 74,
+        "attack_special": 72,
+        "defense_special": 71,
+        "speed": 69,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": 226
+    },
+    {
+        "id": 226,
+        "name": "Roswaal L Mathers",
+        "anime": "Re:Zero",
+        "age": 30,
+        "rank": "Maître combattant",
+        "team": "Équipe principale",
+        "types": [
+            "Pouvoir spécial",
+            "Technique"
+        ],
+        "total": 528,
+        "hp": 84,
+        "attack": 86,
+        "defense": 87,
+        "attack_special": 89,
+        "defense_special": 90,
+        "speed": 92,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 225
+    },
+    {
+        "id": 227,
+        "name": "Otto Suwen",
+        "anime": "Re:Zero",
+        "age": 20,
+        "rank": "Expert",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Énergie",
+            "Combat"
+        ],
+        "total": 495,
+        "hp": 91,
+        "attack": 97,
+        "defense": 100,
+        "attack_special": 65,
+        "defense_special": 68,
+        "speed": 74,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 228
+    },
+    {
+        "id": 228,
+        "name": "Garfiel Tinsel",
+        "anime": "Re:Zero",
+        "age": 14,
+        "rank": "Combattant confirmé",
+        "team": "Organisation",
+        "types": [
+            "Magie",
+            "Combat"
+        ],
+        "total": 503,
+        "hp": 98,
+        "attack": 67,
+        "defense": 72,
+        "attack_special": 82,
+        "defense_special": 87,
+        "speed": 97,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 227
+    },
+    {
+        "id": 229,
+        "name": "Crusch Karsten",
+        "anime": "Re:Zero",
+        "age": 20,
+        "rank": "Combattant d'élite",
+        "team": "Équipe de combat",
+        "types": [
+            "Arme",
+            "Agilité"
+        ],
+        "total": 470,
+        "hp": 64,
+        "attack": 78,
+        "defense": 85,
+        "attack_special": 99,
+        "defense_special": 65,
+        "speed": 79,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 230,
+        "name": "Felix Argyle",
+        "anime": "Re:Zero",
+        "age": 20,
+        "rank": "Héros",
+        "team": "Groupe spécial",
+        "types": [
+            "Pouvoir surnaturel",
+            "Défense"
+        ],
+        "total": 478,
+        "hp": 71,
+        "attack": 89,
+        "defense": 98,
+        "attack_special": 75,
+        "defense_special": 84,
+        "speed": 61,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 231,
+        "name": "Senku Ishigami",
+        "anime": "Dr. Stone",
+        "age": 18,
+        "rank": "Guerrier",
+        "team": "Équipe principale",
+        "types": [
+            "Arts martiaux",
+            "Vitesse"
+        ],
+        "total": 486,
+        "hp": 78,
+        "attack": 100,
+        "defense": 70,
+        "attack_special": 92,
+        "defense_special": 62,
+        "speed": 84,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 232
+    },
+    {
+        "id": 232,
+        "name": "Taiju Oki",
+        "anime": "Dr. Stone",
+        "age": 18,
+        "rank": "Maître combattant",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Technique spéciale",
+            "Endurance"
+        ],
+        "total": 453,
+        "hp": 85,
+        "attack": 70,
+        "defense": 83,
+        "attack_special": 68,
+        "defense_special": 81,
+        "speed": 66,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 231
+    },
+    {
+        "id": 233,
+        "name": "Yuzuriha Ogawa",
+        "anime": "Dr. Stone",
+        "age": 18,
+        "rank": "Expert",
+        "team": "Organisation",
+        "types": [
+            "Combat",
+            "Stratégie"
+        ],
+        "total": 543,
+        "hp": 92,
+        "attack": 81,
+        "defense": 96,
+        "attack_special": 85,
+        "defense_special": 100,
+        "speed": 89,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 234
+    },
+    {
+        "id": 234,
+        "name": "Chrome",
+        "anime": "Dr. Stone",
+        "age": 18,
+        "rank": "Combattant confirmé",
+        "team": "Équipe de combat",
+        "types": [
+            "Pouvoir spécial",
+            "Technique"
+        ],
+        "total": 469,
+        "hp": 99,
+        "attack": 92,
+        "defense": 68,
+        "attack_special": 61,
+        "defense_special": 78,
+        "speed": 71,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": 233
+    },
+    {
+        "id": 235,
+        "name": "Kohaku",
+        "anime": "Dr. Stone",
+        "age": 18,
+        "rank": "Combattant d'élite",
+        "team": "Groupe spécial",
+        "types": [
+            "Énergie",
+            "Combat"
+        ],
+        "total": 477,
+        "hp": 65,
+        "attack": 62,
+        "defense": 81,
+        "attack_special": 78,
+        "defense_special": 97,
+        "speed": 94,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": 236
+    },
+    {
+        "id": 236,
+        "name": "Gen Asagiri",
+        "anime": "Dr. Stone",
+        "age": 19,
+        "rank": "Héros",
+        "team": "Équipe principale",
+        "types": [
+            "Magie",
+            "Combat"
+        ],
+        "total": 485,
+        "hp": 72,
+        "attack": 73,
+        "defense": 94,
+        "attack_special": 95,
+        "defense_special": 75,
+        "speed": 76,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 235
+    },
+    {
+        "id": 237,
+        "name": "Suika",
+        "anime": "Dr. Stone",
+        "age": 9,
+        "rank": "Guerrier",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Arme",
+            "Agilité"
+        ],
+        "total": 493,
+        "hp": 79,
+        "attack": 84,
+        "defense": 66,
+        "attack_special": 71,
+        "defense_special": 94,
+        "speed": 99,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 238
+    },
+    {
+        "id": 238,
+        "name": "Tsukasa Shishio",
+        "anime": "Dr. Stone",
+        "age": 18,
+        "rank": "Maître combattant",
+        "team": "Organisation",
+        "types": [
+            "Pouvoir surnaturel",
+            "Défense"
+        ],
+        "total": 501,
+        "hp": 86,
+        "attack": 95,
+        "defense": 79,
+        "attack_special": 88,
+        "defense_special": 72,
+        "speed": 81,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 237
+    },
+    {
+        "id": 239,
+        "name": "Ryusui Nanami",
+        "anime": "Dr. Stone",
+        "age": 20,
+        "rank": "Expert",
+        "team": "Équipe de combat",
+        "types": [
+            "Arts martiaux",
+            "Vitesse"
+        ],
+        "total": 468,
+        "hp": 93,
+        "attack": 65,
+        "defense": 92,
+        "attack_special": 64,
+        "defense_special": 91,
+        "speed": 63,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 240,
+        "name": "Ukyo Saionji",
+        "anime": "Dr. Stone",
+        "age": 24,
+        "rank": "Combattant confirmé",
+        "team": "Groupe spécial",
+        "types": [
+            "Technique spéciale",
+            "Endurance"
+        ],
+        "total": 476,
+        "hp": 100,
+        "attack": 76,
+        "defense": 64,
+        "attack_special": 81,
+        "defense_special": 69,
+        "speed": 86,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 241,
+        "name": "Emma",
+        "anime": "The Promised Neverland",
+        "age": 11,
+        "rank": "Combattant d'élite",
+        "team": "Équipe principale",
+        "types": [
+            "Combat",
+            "Stratégie"
+        ],
+        "total": 484,
+        "hp": 66,
+        "attack": 87,
+        "defense": 77,
+        "attack_special": 98,
+        "defense_special": 88,
+        "speed": 68,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 242
+    },
+    {
+        "id": 242,
+        "name": "Norman",
+        "anime": "The Promised Neverland",
+        "age": 11,
+        "rank": "Héros",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Pouvoir spécial",
+            "Technique"
+        ],
+        "total": 492,
+        "hp": 73,
+        "attack": 98,
+        "defense": 90,
+        "attack_special": 74,
+        "defense_special": 66,
+        "speed": 91,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 241
+    },
+    {
+        "id": 243,
+        "name": "Ray",
+        "anime": "The Promised Neverland",
+        "age": 11,
+        "rank": "Guerrier",
+        "team": "Organisation",
+        "types": [
+            "Énergie",
+            "Combat"
+        ],
+        "total": 459,
+        "hp": 80,
+        "attack": 68,
+        "defense": 62,
+        "attack_special": 91,
+        "defense_special": 85,
+        "speed": 73,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 244
+    },
+    {
+        "id": 244,
+        "name": "Isabella",
+        "anime": "The Promised Neverland",
+        "age": 31,
+        "rank": "Maître combattant",
+        "team": "Équipe de combat",
+        "types": [
+            "Magie",
+            "Combat"
+        ],
+        "total": 467,
+        "hp": 87,
+        "attack": 79,
+        "defense": 75,
+        "attack_special": 67,
+        "defense_special": 63,
+        "speed": 96,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": 243
+    },
+    {
+        "id": 245,
+        "name": "Don",
+        "anime": "The Promised Neverland",
+        "age": 10,
+        "rank": "Expert",
+        "team": "Groupe spécial",
+        "types": [
+            "Arme",
+            "Agilité"
+        ],
+        "total": 516,
+        "hp": 94,
+        "attack": 90,
+        "defense": 88,
+        "attack_special": 84,
+        "defense_special": 82,
+        "speed": 78,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": 246
+    },
+    {
+        "id": 246,
+        "name": "Gilda",
+        "anime": "The Promised Neverland",
+        "age": 10,
+        "rank": "Combattant confirmé",
+        "team": "Équipe principale",
+        "types": [
+            "Pouvoir surnaturel",
+            "Défense"
+        ],
+        "total": 360,
+        "hp": 60,
+        "attack": 60,
+        "defense": 60,
+        "attack_special": 60,
+        "defense_special": 60,
+        "speed": 60,
+        "techniques": [
+            "Attaque spéciale",
+            "Technique ultime",
+            "Défense renforcée"
+        ],
+        "rival_id": 245
+    },
+    {
+        "id": 247,
+        "name": "Phil",
+        "anime": "The Promised Neverland",
+        "age": 4,
+        "rank": "Combattant d'élite",
+        "team": "Groupe d'alliés",
+        "types": [
+            "Arts martiaux",
+            "Vitesse"
+        ],
+        "total": 450,
+        "hp": 67,
+        "attack": 71,
+        "defense": 73,
+        "attack_special": 77,
+        "defense_special": 79,
+        "speed": 83,
+        "techniques": [
+            "Coup rapide",
+            "Pouvoir principal",
+            "Transformation"
+        ],
+        "rival_id": 248
+    },
+    {
+        "id": 248,
+        "name": "Krone",
+        "anime": "The Promised Neverland",
+        "age": 26,
+        "rank": "Héros",
+        "team": "Organisation",
+        "types": [
+            "Technique spéciale",
+            "Endurance"
+        ],
+        "total": 499,
+        "hp": 74,
+        "attack": 82,
+        "defense": 86,
+        "attack_special": 94,
+        "defense_special": 98,
+        "speed": 65,
+        "techniques": [
+            "Technique secrète",
+            "Attaque puissante",
+            "Esquive"
+        ],
+        "rival_id": 247
+    },
+    {
+        "id": 249,
+        "name": "Sonju",
+        "anime": "The Promised Neverland",
+        "age": 100,
+        "rank": "Guerrier",
+        "team": "Équipe de combat",
+        "types": [
+            "Combat",
+            "Stratégie"
+        ],
+        "total": 507,
+        "hp": 81,
+        "attack": 93,
+        "defense": 99,
+        "attack_special": 70,
+        "defense_special": 76,
+        "speed": 88,
+        "techniques": [
+            "Mode avancé",
+            "Combo spécial",
+            "Frappe finale"
+        ],
+        "rival_id": null
+    },
+    {
+        "id": 250,
+        "name": "Mujika",
+        "anime": "The Promised Neverland",
+        "age": 100,
+        "rank": "Maître combattant",
+        "team": "Groupe spécial",
+        "types": [
+            "Pouvoir spécial",
+            "Technique"
+        ],
+        "total": 474,
+        "hp": 88,
+        "attack": 63,
+        "defense": 71,
+        "attack_special": 87,
+        "defense_special": 95,
+        "speed": 70,
+        "techniques": [
+            "Talent unique",
+            "Technique de combat",
+            "Pouvoir maximal"
+        ],
+        "rival_id": null
+    }
+]
